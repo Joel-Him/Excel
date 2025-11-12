@@ -1,0 +1,1611 @@
+﻿dFecha_Ingreso,IDExpediente,dFechaNacimiento,Servicio,IDDiagnostico,cDescripcion,dFecha_Alta,Sexo,CONDICION
+11/04/2023,790408,15/04/2005,ONCOLOGÍA  ,D693,Púrpura trombocitopénica idiopática,12/04/2023,M,MEJORÍA
+09/01/2023,791369,19/02/2006,ONCOLOGÍA  ,C119,"Tumor maligno de la nasofaringe, parte no especificada",15/01/2023,M,MEJORÍA
+20/02/2023,791369,19/02/2006,ONCOLOGÍA  ,C119,"Tumor maligno de la nasofaringe, parte no especificada",25/02/2023,M,MEJORÍA
+25/01/2023,792240,29/03/2005,ONCOLOGÍA  ,C725,Tumor maligno de otros nervios craneales y los no especificados,30/01/2023,M,MEJORÍA
+10/03/2023,792240,29/03/2005,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,15/03/2023,M,MEJORÍA
+19/04/2023,792240,29/03/2005,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,24/04/2023,M,MEJORÍA
+14/06/2023,792240,29/03/2005,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,18/06/2023,M,MEJORÍA
+12/09/2023,792280,09/03/2009,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],11/10/2023,M,DEFUNCIÓN
+11/01/2023,795973,11/04/2009,ONCOLOGÍA  ,C729,"Tumor maligno del sistema nervioso central, sin otra especificación",16/01/2023,M,MEJORÍA
+27/03/2023,796017,22/03/2006,ONCOLOGÍA  ,C73X,Tumor maligno de la glándula tiroides,30/03/2023,M,MEJORÍA
+04/01/2023,796333,08/08/2005,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],09/01/2023,F,MEJORÍA
+22/01/2023,796333,08/08/2005,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],26/01/2023,F,MEJORÍA
+15/02/2023,796333,08/08/2005,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],20/02/2023,F,MEJORÍA
+08/03/2023,796333,08/08/2005,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],07/04/2023,F,MEJORÍA
+24/04/2023,796333,08/08/2005,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],23/05/2023,F,MEJORÍA
+10/05/2023,797804,08/04/2008,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],16/05/2023,F,MEJORÍA
+01/08/2023,798087,26/03/2012,ONCOLOGÍA  ,G409,"Epilepsia, tipo no especificado",15/08/2023,M,MEJORÍA
+10/06/2023,801124,15/08/2005,ONCOLOGÍA  ,D66X,Deficiencia hereditaria del factor VIII,25/06/2023,M,MEJORÍA
+12/07/2023,801124,15/08/2005,HEMATOLOGÍA           ,D66X,Deficiencia hereditaria del factor VIII,15/08/2023,M,MEJORÍA
+03/04/2023,810278,15/08/2007,TRASPLANTE MED. OSEA,Z948,Otros órganos y tejidos trasplantados,23/06/2023,M,MEJORÍA
+21/08/2023,810278,15/08/2007,ONCOLOGÍA  ,T860,Rechazo de trasplante de médula ósea,06/10/2023,M,MEJORÍA
+16/11/2023,810278,15/08/2007,ONCOLOGÍA  ,T860,Rechazo de trasplante de médula ósea,22/12/2023,M,MEJORÍA
+09/02/2023,811983,11/06/2008,ONCOLOGÍA  ,D66X,Deficiencia hereditaria del factor VIII,11/02/2023,M,MEJORÍA
+11/07/2023,813309,08/03/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],24/07/2023,M,MEJORÍA
+31/07/2023,813309,08/03/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],21/08/2023,M,MEJORÍA
+16/09/2023,813309,08/03/2009,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],18/10/2023,M,MEJORÍA
+06/11/2023,813309,08/03/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],08/11/2023,M,MEJORÍA
+28/11/2023,813309,08/03/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],04/12/2023,M,MEJORÍA
+16/02/2023,819929,09/08/2008,HEMATOLOGÍA           ,D66X,Deficiencia hereditaria del factor VIII,25/02/2023,M,MEJORÍA
+06/03/2023,822581,14/11/2011,ONCOLOGÍA  ,D691,Defecto cualitativos de las plaquetas,10/03/2023,M,MEJORÍA
+01/02/2023,826226,09/10/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],19/02/2023,F,MEJORÍA
+13/03/2023,826226,09/10/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],18/03/2023,F,MEJORÍA
+02/08/2023,826226,09/10/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],03/08/2023,F,MEJORÍA
+25/11/2023,826226,09/10/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],06/12/2023,F,MEJORÍA
+03/05/2023,830632,24/10/2012,ONCOLOGÍA  ,D599,"Anemia hemolítica adquirida, sin otra especificación",05/05/2023,M,MEJORÍA
+18/07/2023,832589,27/10/2010,TRASPLANTE MED. OSEA,Z948,Otros órganos y tejidos trasplantados,23/08/2023,M,MEJORÍA
+06/10/2023,832589,27/10/2010,TRASPLANTE MED. OSEA,Z948,Otros órganos y tejidos trasplantados,23/10/2023,M,MEJORÍA
+22/09/2023,834381,19/05/2013,ONCOLOGÍA  ,D66X,Deficiencia hereditaria del factor VIII,23/09/2023,M,MEJORÍA
+02/01/2023,838643,16/03/2007,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,08/01/2023,F,MEJORÍA
+23/05/2023,838643,16/03/2007,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,05/06/2023,F,MEJORÍA
+19/04/2023,839062,18/01/2008,HEMATOLOGÍA           ,C827,Otros tipos especificados de linfoma folicular,26/04/2023,M,MEJORÍA
+13/05/2023,839062,18/01/2008,ONCOLOGÍA  ,C827,Otros tipos especificados de linfoma folicular,20/05/2023,M,MEJORÍA
+09/06/2023,839062,18/01/2008,ONCOLOGÍA  ,C844,"Linfoma periférico de células T, no clasificado en otra parte",06/07/2023,M,DEFUNCIÓN
+22/01/2023,840084,26/06/2005,HEMATOLOGÍA           ,D610,Anemia aplástica constitucional,27/01/2023,F,MEJORÍA
+05/04/2023,840379,19/10/2009,HEMATOLOGÍA           ,D66X,Deficiencia hereditaria del factor VIII,19/04/2023,M,MEJORÍA
+05/06/2023,840379,19/10/2009,ONCOLOGÍA  ,D66X,Deficiencia hereditaria del factor VIII,09/06/2023,M,MEJORÍA
+04/01/2023,841204,20/06/2013,ONCOLOGÍA  ,C64X,"Tumor maligno del riñón, excepto de la pelvis renal",12/01/2023,F,MEJORÍA
+10/02/2023,841204,20/06/2013,ONCOLOGÍA  ,C73X,Tumor maligno de la glándula tiroides,16/02/2023,F,MEJORÍA
+06/03/2023,841204,20/06/2013,ONCOLOGÍA  ,C64X,"Tumor maligno del riñón, excepto de la pelvis renal",12/03/2023,F,MEJORÍA
+05/04/2023,841204,20/06/2013,ONCOLOGÍA  ,C490,"Tumor maligno del tejido conjuntivo y tejido blando de la cabeza, cara y cuello",11/04/2023,F,MEJORÍA
+15/04/2023,841204,20/06/2013,ONCOLOGÍA  ,R502,Fiebre inducida por drogas,20/04/2023,F,MEJORÍA
+31/05/2023,841204,20/06/2013,ONCOLOGÍA  ,C490,"Tumor maligno del tejido conjuntivo y tejido blando de la cabeza, cara y cuello",12/06/2023,F,MEJORÍA
+05/07/2023,841204,20/06/2013,ONCOLOGÍA  ,C490,"Tumor maligno del tejido conjuntivo y tejido blando de la cabeza, cara y cuello",11/07/2023,F,MEJORÍA
+06/01/2023,841547,25/10/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],10/01/2023,F,MEJORÍA
+17/09/2023,841571,20/10/2014,ONCOLOGÍA  ,D67X,Deficiencia hereditaria del factor IX,26/09/2023,M,MEJORÍA
+10/12/2023,842394,01/10/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],12/12/2023,M,MEJORÍA
+30/04/2023,842702,24/06/2006,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],11/05/2023,M,MEJORÍA
+10/04/2023,842842,10/04/2012,ONCOLOGÍA  ,C719,"Tumor maligno del encéfalo, parte no especificada",01/05/2023,F,MEJORÍA
+17/02/2023,843160,04/06/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],23/02/2023,M,MEJORÍA
+05/03/2023,843160,04/06/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],31/03/2023,M,MEJORÍA
+14/04/2023,843160,04/06/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],25/04/2023,M,MEJORÍA
+03/05/2023,843160,04/06/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],30/05/2023,M,MEJORÍA
+16/11/2023,843193,23/10/2013,ONCOLOGÍA  ,D531,"Otras anemias megaloblásticas, no clasificadas en otra parte",28/11/2023,F,MEJORÍA
+28/06/2023,843653,08/02/2016,ONCOLOGÍA  ,D70X,Agranulocitosis,30/06/2023,M,MEJORÍA
+02/06/2023,843996,16/10/2004,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],13/06/2023,F,MEJORÍA
+10/10/2023,843996,16/10/2004,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],16/10/2023,F,MEJORÍA
+21/08/2023,844026,15/05/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],01/09/2023,F,MEJORÍA
+06/09/2023,844026,15/05/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],13/10/2023,F,MEJORÍA
+16/10/2023,844026,15/05/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],09/12/2023,F,MEJORÍA
+12/12/2023,844026,15/05/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],24/12/2023,F,MEJORÍA
+25/03/2023,845079,30/07/2008,ONCOLOGÍA  ,Z948,Otros órganos y tejidos trasplantados,28/03/2023,F,MEJORÍA
+14/01/2023,846248,18/09/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],18/01/2023,F,MEJORÍA
+07/02/2023,846248,18/09/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],13/02/2023,F,MEJORÍA
+21/02/2023,846248,18/09/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],28/02/2023,F,MEJORÍA
+31/03/2023,846248,18/09/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],06/04/2023,F,MEJORÍA
+06/06/2023,846248,18/09/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],15/06/2023,F,MEJORÍA
+11/07/2023,846248,18/09/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],14/07/2023,F,MEJORÍA
+03/08/2023,846248,18/09/2011,ONCOLOGÍA  ,D611,Anemia aplástica inducida por drogas,02/09/2023,F,MEJORÍA
+20/09/2023,846248,18/09/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],30/09/2023,F,MEJORÍA
+12/10/2023,846248,18/09/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],16/10/2023,F,MEJORÍA
+24/10/2023,846248,18/09/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],27/10/2023,F,MEJORÍA
+27/11/2023,846248,18/09/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],08/12/2023,F,MEJORÍA
+15/12/2023,846248,18/09/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],20/12/2023,F,MEJORÍA
+19/01/2023,846413,20/05/2015,HEMATOLOGÍA           ,C920,Leucemia mieloblástica aguda [LMA],30/01/2023,M,MEJORÍA
+04/05/2023,846413,20/05/2015,ONCOLOGÍA  ,T860,Rechazo de trasplante de médula ósea,28/06/2023,M,MEJORÍA
+11/09/2023,846489,31/07/2008,ONCOLOGÍA  ,C753,Tumor maligno de la glándula pineal,15/09/2023,M,MEJORÍA
+16/01/2023,846523,01/05/2010,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],23/01/2023,M,MEJORÍA
+14/09/2023,847042,21/06/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],19/09/2023,M,MEJORÍA
+02/10/2023,847042,21/06/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],06/10/2023,M,MEJORÍA
+14/10/2023,847042,21/06/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],27/11/2023,M,DEFUNCIÓN
+02/01/2023,847494,18/02/2006,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,08/01/2023,F,MEJORÍA
+20/01/2023,847494,18/02/2006,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,23/01/2023,F,MEJORÍA
+17/03/2023,847586,31/03/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],20/03/2023,F,MEJORÍA
+02/04/2023,847586,31/03/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],06/04/2023,F,MEJORÍA
+04/06/2023,847586,31/03/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],08/06/2023,F,MEJORÍA
+09/01/2023,847816,04/11/2015,ONCOLOGÍA  ,C384,Tumor maligno de la pleura,11/01/2023,M,DEFUNCIÓN
+23/01/2023,847893,20/09/2002,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],27/01/2023,M,MEJORÍA
+27/03/2023,847893,20/09/2002,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],30/03/2023,M,MEJORÍA
+16/02/2023,847938,19/02/2003,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],23/02/2023,M,MEJORÍA
+06/03/2023,847938,19/02/2003,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],10/03/2023,M,MEJORÍA
+31/03/2023,847938,19/02/2003,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],04/04/2023,M,MEJORÍA
+18/04/2023,847938,19/02/2003,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],22/04/2023,M,MEJORÍA
+22/07/2023,847938,19/02/2003,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],25/07/2023,M,MEJORÍA
+01/09/2023,847938,19/02/2003,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],04/09/2023,M,MEJORÍA
+07/09/2023,847938,19/02/2003,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],11/09/2023,M,MEJORÍA
+17/09/2023,847938,19/02/2003,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],22/09/2023,M,MEJORÍA
+30/09/2023,847938,19/02/2003,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],03/10/2023,M,MEJORÍA
+06/11/2023,847938,19/02/2003,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],15/11/2023,M,MEJORÍA
+04/12/2023,847938,19/02/2003,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],11/12/2023,M,MEJORÍA
+29/01/2023,847963,29/05/2013,ONCOLOGÍA  ,C224,Otros sarcomas del hígado,31/01/2023,M,MEJORÍA
+28/02/2023,847963,29/05/2013,ONCOLOGÍA  ,C224,Otros sarcomas del hígado,02/03/2023,M,MEJORÍA
+05/09/2023,847963,29/05/2013,ONCOLOGÍA  ,C224,Otros sarcomas del hígado,09/09/2023,M,MEJORÍA
+11/08/2022,848021,29/06/2005,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],04/02/2023,M,MEJORÍA
+16/02/2023,848021,29/06/2005,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],24/03/2023,M,MEJORÍA
+04/04/2023,848021,29/06/2005,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],13/04/2023,M,MEJORÍA
+04/07/2023,848021,29/06/2005,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],04/08/2023,M,MEJORÍA
+09/03/2023,848093,28/01/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],16/03/2023,M,MEJORÍA
+24/09/2023,848093,28/01/2016,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],29/09/2023,M,MEJORÍA
+15/11/2023,848093,28/01/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],16/11/2023,M,MEJORÍA
+05/07/2023,848193,16/09/2004,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],12/07/2023,F,MEJORÍA
+11/04/2023,848196,27/12/2014,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],12/05/2023,F,DEFUNCIÓN
+06/08/2023,848224,24/05/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],08/08/2023,F,MEJORÍA
+09/08/2023,848228,16/01/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],19/08/2023,M,MEJORÍA
+02/01/2023,848321,23/07/2018,ONCOLOGÍA  ,C494,Tumor maligno del tejido conjuntivo y tejido blando del abdomen,20/01/2023,F,MEJORÍA
+25/02/2023,848321,23/07/2018,HEMATOLOGÍA           ,C494,Tumor maligno del tejido conjuntivo y tejido blando del abdomen,28/02/2023,F,MEJORÍA
+02/07/2023,848321,23/07/2018,ONCOLOGÍA  ,C494,Tumor maligno del tejido conjuntivo y tejido blando del abdomen,24/07/2023,F,MEJORÍA
+03/08/2023,848321,23/07/2018,ONCOLOGÍA  ,C499,"Tumor maligno del tejido conjuntivo y tejido blando, de sitio no especificado",09/08/2023,F,MEJORÍA
+27/08/2023,848321,23/07/2018,ONCOLOGÍA  ,C499,"Tumor maligno del tejido conjuntivo y tejido blando, de sitio no especificado",02/09/2023,F,MEJORÍA
+07/09/2023,848321,23/07/2018,ONCOLOGÍA  ,C494,Tumor maligno del tejido conjuntivo y tejido blando del abdomen,15/09/2023,F,MEJORÍA
+12/10/2023,848321,23/07/2018,ONCOLOGÍA  ,C495,Tumor maligno del tejido conjuntivo y tejido blando de la pelvis,21/10/2023,F,MEJORÍA
+20/12/2023,848321,23/07/2018,HEMATOLOGÍA           ,C671,Tumor maligno de la cúpula vesical,28/12/2023,F,MEJORÍA
+01/06/2023,848363,10/06/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],07/06/2023,M,MEJORÍA
+31/01/2023,848455,25/09/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],03/02/2023,M,MEJORÍA
+25/09/2023,848481,08/02/2016,HEMATOLOGÍA           ,D693,Púrpura trombocitopénica idiopática,27/09/2023,M,MEJORÍA
+06/07/2023,848488,01/11/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],19/07/2023,F,MEJORÍA
+08/04/2023,848534,08/04/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],11/04/2023,M,MEJORÍA
+02/05/2023,848534,08/04/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],09/05/2023,M,MEJORÍA
+27/03/2023,848540,23/12/2010,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],31/03/2023,F,MEJORÍA
+02/04/2023,848540,23/12/2010,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],06/04/2023,F,MEJORÍA
+14/04/2023,848540,23/12/2010,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],24/04/2023,F,MEJORÍA
+13/05/2023,848540,23/12/2010,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],22/05/2023,F,MEJORÍA
+25/05/2023,848540,23/12/2010,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],26/05/2023,F,MEJORÍA
+07/06/2023,848540,23/12/2010,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],17/06/2023,F,MEJORÍA
+02/07/2023,848540,23/12/2010,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],09/07/2023,F,MEJORÍA
+21/07/2023,848540,23/12/2010,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],25/07/2023,F,MEJORÍA
+30/07/2023,848540,23/12/2010,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],02/08/2023,F,MEJORÍA
+24/11/2023,848540,23/12/2010,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],28/11/2023,F,MEJORÍA
+13/01/2023,848625,24/06/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],19/01/2023,M,MEJORÍA
+02/06/2023,848625,24/06/2015,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],07/06/2023,M,MEJORÍA
+24/07/2023,848636,15/01/2008,ONCOLOGÍA  ,C73X,Tumor maligno de la glándula tiroides,26/07/2023,M,MEJORÍA
+19/05/2023,848654,18/05/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],27/05/2023,F,MEJORÍA
+02/03/2023,848655,30/03/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],05/03/2023,M,MEJORÍA
+10/08/2023,848722,20/04/2014,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],16/08/2023,F,MEJORÍA
+07/10/2023,848722,20/04/2014,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],13/10/2023,F,MEJORÍA
+14/04/2023,848766,04/01/2018,ONCOLOGÍA  ,C790,Tumor maligno secundario del riñón y de la pelvis renal,24/04/2023,F,MEJORÍA
+03/07/2023,848766,04/01/2018,ONCOLOGÍA  ,C790,Tumor maligno secundario del riñón y de la pelvis renal,10/07/2023,F,MEJORÍA
+15/08/2023,848766,04/01/2018,ONCOLOGÍA  ,C790,Tumor maligno secundario del riñón y de la pelvis renal,21/08/2023,F,MEJORÍA
+21/09/2023,848766,04/01/2018,ONCOLOGÍA  ,C64X,"Tumor maligno del riñón, excepto de la pelvis renal",27/09/2023,F,MEJORÍA
+03/02/2023,848810,15/07/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],09/02/2023,M,MEJORÍA
+01/07/2023,848810,15/07/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],13/07/2023,M,MEJORÍA
+11/08/2023,848810,15/07/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],09/09/2023,M,DEFUNCIÓN
+21/06/2023,848854,19/06/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],27/06/2023,F,MEJORÍA
+30/10/2023,848854,19/06/2015,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],06/11/2023,F,MEJORÍA
+07/12/2023,848854,19/06/2015,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],13/12/2023,F,MEJORÍA
+08/04/2023,848887,25/04/2017,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],23/04/2023,F,MEJORÍA
+22/02/2023,848932,07/09/2005,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],03/03/2023,M,MEJORÍA
+10/09/2023,848932,07/09/2005,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],11/09/2023,M,MEJORÍA
+16/12/2023,848932,07/09/2005,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],19/12/2023,M,MEJORÍA
+10/06/2023,848975,06/11/2014,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],14/06/2023,M,MEJORÍA
+14/09/2023,848979,08/10/2005,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],16/09/2023,F,MEJORÍA
+02/01/2023,848985,08/11/2010,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],10/01/2023,M,MEJORÍA
+12/03/2023,848985,08/11/2010,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],16/03/2023,M,MEJORÍA
+26/06/2023,848985,08/11/2010,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],04/07/2023,M,MEJORÍA
+22/03/2023,849006,18/08/2014,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],28/03/2023,M,MEJORÍA
+31/05/2023,849075,23/08/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],06/06/2023,M,MEJORÍA
+26/06/2023,849148,04/11/2010,HEMATOLOGÍA           ,D610,Anemia aplástica constitucional,01/07/2023,M,MEJORÍA
+31/07/2023,849148,04/11/2010,ONCOLOGÍA  ,D610,Anemia aplástica constitucional,04/08/2023,M,MEJORÍA
+22/07/2023,849280,15/07/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],03/08/2023,M,MEJORÍA
+09/08/2023,849280,15/07/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],29/08/2023,M,MEJORÍA
+15/09/2023,849280,15/07/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],22/09/2023,M,MEJORÍA
+03/10/2023,849280,15/07/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],25/10/2023,M,MEJORÍA
+06/11/2023,849280,15/07/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],08/11/2023,M,MEJORÍA
+21/11/2023,849280,15/07/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],25/11/2023,M,MEJORÍA
+09/02/2023,849287,25/02/2011,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],14/02/2023,M,MEJORÍA
+03/03/2023,849287,25/02/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],06/03/2023,M,MEJORÍA
+18/04/2023,849287,25/02/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],22/04/2023,M,MEJORÍA
+04/05/2023,849287,25/02/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],11/05/2023,M,MEJORÍA
+31/05/2023,849287,25/02/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],18/06/2023,M,MEJORÍA
+21/06/2023,849287,25/02/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],23/06/2023,M,DEFUNCIÓN
+31/12/2022,849375,27/09/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],04/01/2023,M,MEJORÍA
+31/03/2023,849375,27/09/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],05/04/2023,M,MEJORÍA
+06/04/2023,849375,27/09/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],13/04/2023,M,MEJORÍA
+19/09/2023,849375,27/09/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],23/09/2023,M,MEJORÍA
+30/03/2023,849433,24/11/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],04/04/2023,M,MEJORÍA
+05/08/2023,849433,24/11/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],10/08/2023,M,MEJORÍA
+24/12/2023,849433,24/11/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],26/12/2023,M,MEJORÍA
+17/03/2023,849459,12/07/2011,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],22/03/2023,M,MEJORÍA
+29/08/2023,849459,12/07/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],19/09/2023,M,MEJORÍA
+29/09/2023,849459,12/07/2011,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],19/10/2023,M,MEJORÍA
+27/10/2023,849459,12/07/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],08/11/2023,M,MEJORÍA
+10/11/2023,849459,12/07/2011,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],24/11/2023,M,MEJORÍA
+07/12/2023,849459,12/07/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],08/12/2023,M,MEJORÍA
+19/12/2023,849459,12/07/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],21/12/2023,M,DEFUNCIÓN
+23/02/2023,849514,25/10/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],01/03/2023,M,MEJORÍA
+10/03/2023,849514,25/10/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],14/03/2023,M,MEJORÍA
+12/01/2023,849540,10/09/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],16/01/2023,M,MEJORÍA
+24/03/2023,849540,10/09/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],28/03/2023,M,MEJORÍA
+30/03/2023,849568,23/11/2012,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],05/04/2023,F,MEJORÍA
+13/04/2023,849568,23/11/2012,HEMATOLOGÍA           ,C920,Leucemia mieloblástica aguda [LMA],08/05/2023,F,MEJORÍA
+12/05/2023,849568,23/11/2012,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],18/05/2023,F,MEJORÍA
+25/05/2023,849568,23/11/2012,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],14/06/2023,F,MEJORÍA
+19/06/2023,849568,23/11/2012,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],12/07/2023,F,MEJORÍA
+19/07/2023,849568,23/11/2012,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],25/07/2023,F,MEJORÍA
+30/07/2023,849568,23/11/2012,HEMATOLOGÍA           ,C920,Leucemia mieloblástica aguda [LMA],22/08/2023,F,MEJORÍA
+01/10/2023,849568,23/11/2012,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],05/10/2023,F,MEJORÍA
+15/10/2023,849568,23/11/2012,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],20/10/2023,F,MEJORÍA
+26/11/2023,849568,23/11/2012,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],01/12/2023,F,MEJORÍA
+08/04/2023,849603,19/02/2014,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],13/04/2023,M,MEJORÍA
+04/07/2023,849603,19/02/2014,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],08/07/2023,M,MEJORÍA
+24/07/2023,849603,19/02/2014,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],02/08/2023,M,MEJORÍA
+11/09/2023,849603,19/02/2014,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],15/09/2023,M,MEJORÍA
+23/01/2023,849623,01/05/2008,ONCOLOGÍA  ,C73X,Tumor maligno de la glándula tiroides,26/01/2023,F,MEJORÍA
+21/12/2022,849640,17/08/2006,ONCOLOGÍA  ,T860,Rechazo de trasplante de médula ósea,07/07/2023,M,DEFUNCIÓN
+10/01/2023,849651,16/04/2013,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],27/01/2023,M,MEJORÍA
+25/03/2023,849651,16/04/2013,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],29/03/2023,M,MEJORÍA
+30/01/2023,849666,30/03/2017,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],06/02/2023,M,MEJORÍA
+24/11/2022,849700,05/10/2016,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],11/02/2023,M,MEJORÍA
+28/02/2023,849700,05/10/2016,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],15/03/2023,M,MEJORÍA
+18/04/2023,849700,05/10/2016,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],29/04/2023,M,MEJORÍA
+26/12/2022,849703,13/02/2005,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],09/01/2023,F,MEJORÍA
+18/01/2023,849703,13/02/2005,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],23/01/2023,F,MEJORÍA
+31/01/2023,849703,13/02/2005,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],03/02/2023,F,MEJORÍA
+14/02/2023,849703,13/02/2005,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],17/02/2023,F,MEJORÍA
+02/06/2023,849703,13/02/2005,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],05/06/2023,F,MEJORÍA
+13/07/2023,849703,13/02/2005,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],17/07/2023,F,MEJORÍA
+24/07/2023,849703,13/02/2005,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],25/07/2023,F,MEJORÍA
+01/08/2023,849703,13/02/2005,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],04/08/2023,F,MEJORÍA
+12/08/2023,849703,13/02/2005,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],15/08/2023,F,MEJORÍA
+17/06/2023,849732,11/11/2011,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],23/06/2023,M,MEJORÍA
+26/09/2023,849732,11/11/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],03/10/2023,M,MEJORÍA
+20/06/2022,849754,05/07/2010,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],23/02/2023,M,DEFUNCIÓN
+19/12/2023,849787,30/06/2020,ONCOLOGÍA  ,D508,Otras anemias por deficiencia de hierro,23/12/2023,F,MEJORÍA
+10/03/2023,849795,23/12/2014,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],12/03/2023,M,MEJORÍA
+02/12/2023,849795,23/12/2014,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],09/12/2023,M,MEJORÍA
+16/01/2023,849796,05/09/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],20/01/2023,F,MEJORÍA
+05/07/2023,849796,05/09/2007,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],12/07/2023,F,MEJORÍA
+26/07/2023,849796,05/09/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],08/08/2023,F,MEJORÍA
+12/09/2023,849796,05/09/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],14/09/2023,F,MEJORÍA
+06/11/2023,849829,27/11/2006,ONCOLOGÍA  ,C73X,Tumor maligno de la glándula tiroides,09/11/2023,F,MEJORÍA
+22/10/2023,849841,08/07/2013,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],28/10/2023,M,MEJORÍA
+27/01/2023,849901,21/04/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],31/01/2023,M,MEJORÍA
+01/04/2023,849901,21/04/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],05/04/2023,M,MEJORÍA
+23/01/2023,849924,01/12/2012,ONCOLOGÍA  ,C835,Linfoma linfoblástico (difuso),31/01/2023,M,MEJORÍA
+21/02/2023,849924,01/12/2012,ONCOLOGÍA  ,C835,Linfoma linfoblástico (difuso),24/02/2023,M,MEJORÍA
+04/03/2023,849924,01/12/2012,ONCOLOGÍA  ,C835,Linfoma linfoblástico (difuso),15/03/2023,M,MEJORÍA
+18/04/2023,849924,01/12/2012,ONCOLOGÍA  ,C835,Linfoma linfoblástico (difuso),22/04/2023,M,MEJORÍA
+28/05/2023,849924,01/12/2012,ONCOLOGÍA  ,C835,Linfoma linfoblástico (difuso),13/06/2023,M,MEJORÍA
+29/07/2023,849924,01/12/2012,ONCOLOGÍA  ,C835,Linfoma linfoblástico (difuso),05/08/2023,M,MEJORÍA
+06/09/2023,849924,01/12/2012,ONCOLOGÍA  ,C835,Linfoma linfoblástico (difuso),09/09/2023,M,MEJORÍA
+10/12/2023,849924,01/12/2012,ONCOLOGÍA  ,C835,Linfoma linfoblástico (difuso),15/12/2023,M,MEJORÍA
+04/07/2023,849977,07/07/2007,ONCOLOGÍA  ,D761,Linfohistiocitosis hemofagocítica,31/07/2023,F,DEFUNCIÓN
+30/03/2023,851438,28/03/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],06/04/2023,F,MEJORÍA
+17/07/2023,851438,28/03/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],24/07/2023,F,MEJORÍA
+26/09/2023,851438,28/03/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],10/10/2023,F,MEJORÍA
+17/10/2023,852894,07/03/2015,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],25/10/2023,M,MEJORÍA
+20/03/2023,853300,27/04/2008,ONCOLOGÍA  ,D693,Púrpura trombocitopénica idiopática,22/03/2023,M,MEJORÍA
+26/01/2023,855448,16/05/2011,ONCOLOGÍA  ,C837,Linfoma de Burkitt,30/01/2023,M,MEJORÍA
+25/02/2023,855448,16/05/2011,ONCOLOGÍA  ,C837,Linfoma de Burkitt,01/03/2023,M,MEJORÍA
+09/11/2023,855936,09/08/2015,ONCOLOGÍA  ,D67X,Deficiencia hereditaria del factor IX,13/11/2023,M,MEJORÍA
+19/11/2023,855936,09/08/2015,ONCOLOGÍA  ,D67X,Deficiencia hereditaria del factor IX,23/11/2023,M,MEJORÍA
+25/04/2023,857032,20/11/2011,ONCOLOGÍA  ,D479,"Tumores de comportamiento incierto o desconocido del tejido linfático, de los órganos hematopoyéticos y de tejidos afines, no especificados",04/05/2023,F,MEJORÍA
+08/06/2023,857032,20/11/2011,ONCOLOGÍA  ,C848,"Linfoma cutáneo de células T, no especificado",13/06/2023,F,MEJORÍA
+15/06/2023,857032,20/11/2011,ONCOLOGÍA  ,C848,"Linfoma cutáneo de células T, no especificado",23/06/2023,F,MEJORÍA
+03/10/2023,857032,20/11/2011,ONCOLOGÍA  ,C849,"Linfoma de células T/NK maduras, no especificado",10/10/2023,F,MEJORÍA
+16/10/2023,857032,20/11/2011,ONCOLOGÍA  ,C844,"Linfoma periférico de células T, no clasificado en otra parte",17/10/2023,F,MEJORÍA
+06/11/2023,857032,20/11/2011,ONCOLOGÍA  ,C849,"Linfoma de células T/NK maduras, no especificado",13/11/2023,F,MEJORÍA
+16/11/2023,857032,20/11/2011,ONCOLOGÍA  ,C845,Otros linfomas de células T/NK maduras,19/11/2023,F,MEJORÍA
+01/05/2023,857066,15/07/2005,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],04/05/2023,F,MEJORÍA
+09/05/2023,857066,15/07/2005,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],13/05/2023,F,MEJORÍA
+30/05/2023,857066,15/07/2005,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],02/06/2023,F,MEJORÍA
+21/08/2023,857066,15/07/2005,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],29/08/2023,F,MEJORÍA
+07/03/2023,858502,19/01/2014,ONCOLOGÍA  ,C490,"Tumor maligno del tejido conjuntivo y tejido blando de la cabeza, cara y cuello",07/04/2023,F,MEJORÍA
+09/07/2023,858998,14/11/2017,HEMATOLOGÍA           ,D473,Trombocitopenia (hemorrágica) esencial,10/07/2023,M,MEJORÍA
+16/01/2023,859118,04/01/2018,HEMATOLOGÍA           ,D610,Anemia aplástica constitucional,07/05/2023,F,DEFUNCIÓN
+15/05/2023,859450,14/01/2005,ONCOLOGÍA  ,E041,Nódulo tiroideo solitario no tóxico,18/05/2023,F,MEJORÍA
+13/03/2023,860135,16/09/2014,ONCOLOGÍA  ,F840,Autismo en la niñez,16/03/2023,M,MEJORÍA
+14/02/2023,860261,04/07/2015,HEMATOLOGÍA           ,C857,Otros tipos especificados de linfoma no Hodgkin,01/03/2023,F,MEJORÍA
+03/03/2023,860261,04/07/2015,ONCOLOGÍA  ,C857,Otros tipos especificados de linfoma no Hodgkin,08/03/2023,F,MEJORÍA
+25/05/2023,860261,04/07/2015,HEMATOLOGÍA           ,C857,Otros tipos especificados de linfoma no Hodgkin,15/06/2023,F,MEJORÍA
+12/07/2023,860261,04/07/2015,ONCOLOGÍA  ,C848,"Linfoma cutáneo de células T, no especificado",05/08/2023,F,MEJORÍA
+26/08/2023,860261,04/07/2015,ONCOLOGÍA  ,C857,Otros tipos especificados de linfoma no Hodgkin,04/09/2023,F,MEJORÍA
+10/09/2023,860261,04/07/2015,ONCOLOGÍA  ,C859,"Linfoma no Hodgkin, no especificado",21/09/2023,F,MEJORÍA
+28/09/2023,860261,04/07/2015,ONCOLOGÍA  ,C857,Otros tipos especificados de linfoma no Hodgkin,05/10/2023,F,MEJORÍA
+24/01/2023,860597,03/07/2010,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],12/02/2023,M,MEJORÍA
+01/03/2023,860597,03/07/2010,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],08/03/2023,M,MEJORÍA
+18/03/2023,860597,03/07/2010,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],24/03/2023,M,MEJORÍA
+15/04/2023,860597,03/07/2010,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],20/04/2023,M,MEJORÍA
+11/02/2023,860668,21/02/2007,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],19/02/2023,F,MEJORÍA
+23/02/2023,860668,21/02/2007,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],14/04/2023,F,MEJORÍA
+13/06/2023,860668,21/02/2007,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],19/06/2023,F,MEJORÍA
+11/08/2023,860668,21/02/2007,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],03/09/2023,F,DEFUNCIÓN
+31/01/2023,861950,31/07/2018,ONCOLOGÍA  ,D848,Otras inmunodeficiencias especificadas,03/02/2023,M,MEJORÍA
+16/01/2023,862635,15/07/2006,ONCOLOGÍA  ,E078,Otros trastornos especificados de la glándula tiroides,19/01/2023,M,MEJORÍA
+30/12/2022,862726,17/07/2016,ONCOLOGÍA  ,C692,Tumor maligno de la retina,07/01/2023,F,MEJORÍA
+24/01/2023,862726,17/07/2016,ONCOLOGÍA  ,C692,Tumor maligno de la retina,29/01/2023,F,MEJORÍA
+12/02/2023,862726,17/07/2016,ONCOLOGÍA  ,C692,Tumor maligno de la retina,06/03/2023,F,MEJORÍA
+30/08/2023,862726,17/07/2016,HEMATOLOGÍA           ,C692,Tumor maligno de la retina,04/09/2023,F,DEFUNCIÓN
+03/01/2023,864919,30/08/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],11/01/2023,M,MEJORÍA
+30/06/2023,864922,18/04/2013,ONCOLOGÍA  ,C490,"Tumor maligno del tejido conjuntivo y tejido blando de la cabeza, cara y cuello",07/07/2023,M,MEJORÍA
+28/08/2023,864922,18/04/2013,ONCOLOGÍA  ,C490,"Tumor maligno del tejido conjuntivo y tejido blando de la cabeza, cara y cuello",03/09/2023,M,MEJORÍA
+04/10/2023,864922,18/04/2013,ONCOLOGÍA  ,C490,"Tumor maligno del tejido conjuntivo y tejido blando de la cabeza, cara y cuello",10/10/2023,M,MEJORÍA
+31/10/2023,864922,18/04/2013,ONCOLOGÍA  ,C490,"Tumor maligno del tejido conjuntivo y tejido blando de la cabeza, cara y cuello",05/11/2023,M,MEJORÍA
+29/11/2023,864922,18/04/2013,ONCOLOGÍA  ,C490,"Tumor maligno del tejido conjuntivo y tejido blando de la cabeza, cara y cuello",05/12/2023,M,MEJORÍA
+23/10/2023,865134,05/08/2019,ONCOLOGÍA  ,D66X,Deficiencia hereditaria del factor VIII,01/11/2023,M,MEJORÍA
+01/04/2023,865393,23/08/2017,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],10/04/2023,F,MEJORÍA
+26/10/2023,865393,23/08/2017,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],14/11/2023,F,MEJORÍA
+06/01/2023,866001,21/05/2020,HEMATOLOGÍA           ,C402,Tumor maligno de los huesos largos del miembro inferior,31/01/2023,M,DEFUNCIÓN
+17/01/2023,866064,11/02/2012,TRASPLANTE MED. OSEA,Z948,Otros órganos y tejidos trasplantados,01/03/2023,F,MEJORÍA
+08/03/2023,866064,11/02/2012,ONCOLOGÍA  ,T860,Rechazo de trasplante de médula ósea,07/07/2023,F,DEFUNCIÓN
+13/06/2023,866197,28/01/2016,ONCOLOGÍA  ,C966,Histiocitosis de células de Langerhans unifocal,22/06/2023,F,MEJORÍA
+22/08/2023,866221,03/08/2016,ONCOLOGÍA  ,G129,"Atrofia muscular espinal, sin otra especificación",24/08/2023,M,MEJORÍA
+02/01/2023,866397,16/12/2007,ONCOLOGÍA  ,D093,Carcinoma in situ de la glándula tiroides y de otras glándulas endocrinas,05/01/2023,F,MEJORÍA
+24/04/2023,866460,23/04/2021,TRASPLANTE MED. OSEA,D70X,Agranulocitosis,06/05/2023,F,DEFUNCIÓN
+14/07/2023,866741,02/10/2012,ONCOLOGÍA  ,C692,Tumor maligno de la retina,20/07/2023,M,MEJORÍA
+02/08/2023,866741,02/10/2012,ONCOLOGÍA  ,C692,Tumor maligno de la retina,08/08/2023,M,MEJORÍA
+17/08/2023,866741,02/10/2012,ONCOLOGÍA  ,C692,Tumor maligno de la retina,22/08/2023,M,MEJORÍA
+07/10/2023,866741,02/10/2012,ONCOLOGÍA  ,C692,Tumor maligno de la retina,12/10/2023,M,MEJORÍA
+31/10/2023,866741,02/10/2012,ONCOLOGÍA  ,C692,Tumor maligno de la retina,05/11/2023,M,MEJORÍA
+01/12/2023,866741,02/10/2012,ONCOLOGÍA  ,C692,Tumor maligno de la retina,06/12/2023,M,MEJORÍA
+22/06/2023,866835,31/07/2018,HEMATOLOGÍA           ,C964,Sarcoma de células dendríticas (células accesoorias),03/07/2023,F,MEJORÍA
+22/07/2023,866835,31/07/2018,ONCOLOGÍA  ,C490,"Tumor maligno del tejido conjuntivo y tejido blando de la cabeza, cara y cuello",30/07/2023,F,MEJORÍA
+30/09/2023,866835,31/07/2018,ONCOLOGÍA  ,C490,"Tumor maligno del tejido conjuntivo y tejido blando de la cabeza, cara y cuello",05/10/2023,F,MEJORÍA
+27/10/2023,866835,31/07/2018,ONCOLOGÍA  ,C490,"Tumor maligno del tejido conjuntivo y tejido blando de la cabeza, cara y cuello",01/11/2023,F,MEJORÍA
+13/11/2023,866835,31/07/2018,ONCOLOGÍA  ,C490,"Tumor maligno del tejido conjuntivo y tejido blando de la cabeza, cara y cuello",16/11/2023,F,MEJORÍA
+30/01/2023,866894,15/11/2014,ONCOLOGÍA  ,C921,"Leucemia mieloide crónica [LMC], BCR/ABL-positivo",05/02/2023,M,MEJORÍA
+16/10/2023,866894,15/11/2014,TRASPLANTE MED. OSEA,C921,"Leucemia mieloide crónica [LMC], BCR/ABL-positivo",20/10/2023,M,MEJORÍA
+13/12/2022,866921,25/09/2009,ONCOLOGÍA  ,D618,Otras anemias aplásticas especificadas,11/01/2023,M,MEJORÍA
+13/02/2023,867039,18/05/2016,TRASPLANTE MED. OSEA,C749,"Tumor maligno de la glándula suprarrenal, parte no especificada",16/03/2023,M,MEJORÍA
+03/04/2023,867039,18/05/2016,TRASPLANTE MED. OSEA,C749,"Tumor maligno de la glándula suprarrenal, parte no especificada",09/06/2023,M,DEFUNCIÓN
+18/04/2023,867122,17/06/2006,TRASPLANTE MED. OSEA,C910,Leucemia linfoblástica aguda [LLA],22/05/2023,F,DEFUNCIÓN
+17/05/2023,867451,04/08/2018,ONCOLOGÍA  ,C749,"Tumor maligno de la glándula suprarrenal, parte no especificada",22/05/2023,M,DEFUNCIÓN
+24/10/2023,867482,02/02/2022,ONCOLOGÍA  ,G120,"Atrofia muscular espinal infantil, tipo I (Werdnig-Hoffman)",26/10/2023,M,MEJORÍA
+08/01/2023,867603,08/03/2006,ONCOLOGÍA  ,C413,"Tumor maligno de la costilla, esternón y clavícula",11/01/2023,M,MEJORÍA
+01/02/2023,867603,08/03/2006,ONCOLOGÍA  ,C413,"Tumor maligno de la costilla, esternón y clavícula",05/02/2023,M,MEJORÍA
+03/03/2023,867603,08/03/2006,ONCOLOGÍA  ,C413,"Tumor maligno de la costilla, esternón y clavícula",07/03/2023,M,MEJORÍA
+26/03/2023,867603,08/03/2006,ONCOLOGÍA  ,C413,"Tumor maligno de la costilla, esternón y clavícula",30/03/2023,M,MEJORÍA
+05/04/2023,867603,08/03/2006,ONCOLOGÍA  ,C413,"Tumor maligno de la costilla, esternón y clavícula",11/04/2023,M,MEJORÍA
+22/04/2023,867603,08/03/2006,ONCOLOGÍA  ,C413,"Tumor maligno de la costilla, esternón y clavícula",26/04/2023,M,MEJORÍA
+13/05/2023,867603,08/03/2006,ONCOLOGÍA  ,C413,"Tumor maligno de la costilla, esternón y clavícula",16/05/2023,M,MEJORÍA
+19/02/2023,867635,12/05/2006,ONCOLOGÍA  ,T860,Rechazo de trasplante de médula ósea,28/04/2023,M,DEFUNCIÓN
+10/01/2023,867683,18/08/2017,ONCOLOGÍA  ,C966,Histiocitosis de células de Langerhans unifocal,16/01/2023,F,MEJORÍA
+08/02/2023,867683,18/08/2017,ONCOLOGÍA  ,C966,Histiocitosis de células de Langerhans unifocal,14/02/2023,F,MEJORÍA
+07/03/2023,867683,18/08/2017,ONCOLOGÍA  ,C966,Histiocitosis de células de Langerhans unifocal,13/03/2023,F,MEJORÍA
+14/04/2023,867683,18/08/2017,ONCOLOGÍA  ,C966,Histiocitosis de células de Langerhans unifocal,20/04/2023,F,MEJORÍA
+29/01/2023,867838,04/02/2018,ONCOLOGÍA  ,C409,"Tumor maligno de los huesos y de los cartílagos articulares de los miembros, sin otra especificación",31/01/2023,F,MEJORÍA
+11/03/2023,867838,04/02/2018,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,12/03/2023,F,MEJORÍA
+02/04/2023,867838,04/02/2018,ONCOLOGÍA  ,C968,Sarcoma histiocítico,04/04/2023,F,MEJORÍA
+14/04/2023,867838,04/02/2018,ONCOLOGÍA  ,C400,Tumor maligno del omóplato y de los huesos largos del miembro superior,06/05/2023,F,MEJORÍA
+28/05/2023,867838,04/02/2018,ONCOLOGÍA  ,C400,Tumor maligno del omóplato y de los huesos largos del miembro superior,30/05/2023,F,MEJORÍA
+29/06/2023,867838,04/02/2018,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,01/07/2023,F,MEJORÍA
+22/07/2023,867838,04/02/2018,ONCOLOGÍA  ,C400,Tumor maligno del omóplato y de los huesos largos del miembro superior,24/07/2023,F,MEJORÍA
+15/08/2023,867838,04/02/2018,ONCOLOGÍA  ,C400,Tumor maligno del omóplato y de los huesos largos del miembro superior,17/08/2023,F,MEJORÍA
+02/01/2023,867859,02/02/2008,ONCOLOGÍA  ,C492,"Tumor maligno del tejido conjuntivo y tejido blando del miembro inferior, incluida la cadera",06/01/2023,M,MEJORÍA
+20/03/2023,867859,02/02/2008,ONCOLOGÍA  ,C492,"Tumor maligno del tejido conjuntivo y tejido blando del miembro inferior, incluida la cadera",23/05/2023,M,MEJORÍA
+18/12/2022,867921,04/11/2021,ONCOLOGÍA  ,C729,"Tumor maligno del sistema nervioso central, sin otra especificación",02/01/2023,M,DEFUNCIÓN
+21/02/2023,867974,08/05/2014,TRASPLANTE MED. OSEA,C920,Leucemia mieloblástica aguda [LMA],01/03/2023,M,MEJORÍA
+06/03/2023,868010,31/10/2020,TRASPLANTE MED. OSEA,Z948,Otros órganos y tejidos trasplantados,19/04/2023,F,MEJORÍA
+13/09/2023,868010,31/10/2020,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],18/09/2023,F,MEJORÍA
+28/08/2023,868189,14/12/2005,ONCOLOGÍA  ,E890,Hipotiroidismo consecutivo a procedimientos,31/08/2023,M,MEJORÍA
+28/02/2023,868251,30/10/2009,HEMATOLOGÍA           ,C402,Tumor maligno de los huesos largos del miembro inferior,13/03/2023,M,MEJORÍA
+16/03/2023,868251,30/10/2009,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,19/03/2023,M,MEJORÍA
+08/04/2023,868251,30/10/2009,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,12/04/2023,M,MEJORÍA
+21/04/2023,868251,30/10/2009,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,24/04/2023,M,MEJORÍA
+06/05/2023,868251,30/10/2009,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,09/05/2023,M,MEJORÍA
+27/05/2023,868251,30/10/2009,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,30/05/2023,M,MEJORÍA
+03/06/2023,868251,30/10/2009,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,06/06/2023,M,MEJORÍA
+15/07/2023,868251,30/10/2009,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,18/07/2023,M,MEJORÍA
+23/07/2023,868251,30/10/2009,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,28/07/2023,M,MEJORÍA
+13/08/2023,868251,30/10/2009,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,16/08/2023,M,MEJORÍA
+19/09/2023,868251,30/10/2009,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,22/09/2023,M,MEJORÍA
+13/10/2023,868251,30/10/2009,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,16/10/2023,M,MEJORÍA
+25/10/2023,868251,30/10/2009,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,30/10/2023,M,MEJORÍA
+20/11/2023,868251,30/10/2009,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,23/11/2023,M,MEJORÍA
+04/12/2023,868251,30/10/2009,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,07/12/2023,M,MEJORÍA
+26/12/2023,868251,30/10/2009,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,29/12/2023,M,MEJORÍA
+08/01/2023,868316,23/03/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],12/01/2023,F,MEJORÍA
+30/01/2023,868316,23/03/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],03/02/2023,F,MEJORÍA
+09/08/2023,868316,23/03/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],17/08/2023,F,MEJORÍA
+26/03/2023,868456,13/08/2020,ONCOLOGÍA  ,D610,Anemia aplástica constitucional,28/03/2023,M,MEJORÍA
+31/01/2023,868482,21/07/2008,TRASPLANTE MED. OSEA,C910,Leucemia linfoblástica aguda [LLA],03/02/2023,M,MEJORÍA
+28/08/2023,868482,21/07/2008,TRASPLANTE MED. OSEA,C910,Leucemia linfoblástica aguda [LLA],01/09/2023,M,MEJORÍA
+02/10/2023,868482,21/07/2008,TRASPLANTE MED. OSEA,C910,Leucemia linfoblástica aguda [LLA],14/12/2023,M,DEFUNCIÓN
+12/01/2023,868484,25/08/2006,ONCOLOGÍA  ,Z948,Otros órganos y tejidos trasplantados,14/04/2023,M,MEJORÍA
+16/11/2023,868484,25/08/2006,ONCOLOGÍA  ,T860,Rechazo de trasplante de médula ósea,22/12/2023,M,MEJORÍA
+01/03/2023,868532,22/10/2012,TRASPLANTE MED. OSEA,Z948,Otros órganos y tejidos trasplantados,12/04/2023,F,MEJORÍA
+15/01/2023,868653,28/07/2016,ONCOLOGÍA  ,C499,"Tumor maligno del tejido conjuntivo y tejido blando, de sitio no especificado",17/01/2023,M,MEJORÍA
+07/02/2023,868754,22/04/2022,ONCOLOGÍA  ,C222,Hepatoblastoma,15/02/2023,M,MEJORÍA
+22/02/2023,868754,22/04/2022,ONCOLOGÍA  ,C222,Hepatoblastoma,24/02/2023,M,MEJORÍA
+03/03/2023,868754,22/04/2022,ONCOLOGÍA  ,C222,Hepatoblastoma,11/03/2023,M,MEJORÍA
+05/04/2023,868754,22/04/2022,ONCOLOGÍA  ,C222,Hepatoblastoma,08/04/2023,M,MEJORÍA
+30/04/2023,868754,22/04/2022,ONCOLOGÍA  ,C222,Hepatoblastoma,03/05/2023,M,MEJORÍA
+07/05/2023,868754,22/04/2022,HEMATOLOGÍA           ,C222,Hepatoblastoma,19/05/2023,M,MEJORÍA
+01/06/2023,868754,22/04/2022,ONCOLOGÍA  ,C222,Hepatoblastoma,04/06/2023,M,MEJORÍA
+04/08/2023,868754,22/04/2022,ONCOLOGÍA  ,C222,Hepatoblastoma,09/08/2023,M,MEJORÍA
+03/09/2023,868754,22/04/2022,ONCOLOGÍA  ,C222,Hepatoblastoma,07/09/2023,M,MEJORÍA
+11/09/2023,868754,22/04/2022,ONCOLOGÍA  ,C222,Hepatoblastoma,12/09/2023,M,MEJORÍA
+06/10/2023,868754,22/04/2022,ONCOLOGÍA  ,C222,Hepatoblastoma,09/10/2023,M,MEJORÍA
+17/11/2023,868754,22/04/2022,ONCOLOGÍA  ,C222,Hepatoblastoma,22/11/2023,M,MEJORÍA
+17/03/2023,868774,12/05/2006,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],04/04/2023,F,MEJORÍA
+02/05/2023,868774,12/05/2006,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],03/05/2023,F,MEJORÍA
+24/08/2023,868774,12/05/2006,TRASPLANTE MED. OSEA,C910,Leucemia linfoblástica aguda [LLA],25/08/2023,F,MEJORÍA
+23/04/2023,868833,20/07/2014,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],12/05/2023,F,MEJORÍA
+25/05/2023,868833,20/07/2014,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],31/05/2023,F,MEJORÍA
+09/06/2023,868833,20/07/2014,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],12/06/2023,F,MEJORÍA
+24/03/2023,868926,01/01/2022,ONCOLOGÍA  ,C692,Tumor maligno de la retina,28/03/2023,F,MEJORÍA
+12/08/2023,868926,01/01/2022,ONCOLOGÍA  ,C692,Tumor maligno de la retina,17/08/2023,F,MEJORÍA
+13/04/2023,868948,16/01/2011,ONCOLOGÍA  ,C811,Linfoma de Hodgkin clásico con esclerosis nodular,22/04/2023,F,MEJORÍA
+07/11/2023,869094,27/01/2018,ONCOLOGÍA  ,C848,"Linfoma cutáneo de células T, no especificado",10/11/2023,M,MEJORÍA
+23/05/2023,869104,18/08/2019,TRASPLANTE MED. OSEA,C920,Leucemia mieloblástica aguda [LMA],02/06/2023,M,MEJORÍA
+28/08/2023,869104,18/08/2019,TRASPLANTE MED. OSEA,C920,Leucemia mieloblástica aguda [LMA],01/09/2023,M,MEJORÍA
+06/12/2023,869185,30/10/2021,ONCOLOGÍA  ,C692,Tumor maligno de la retina,13/12/2023,M,DEFUNCIÓN
+21/04/2023,869186,30/01/2007,ONCOLOGÍA  ,C492,"Tumor maligno del tejido conjuntivo y tejido blando del miembro inferior, incluida la cadera",24/04/2023,F,MEJORÍA
+05/05/2023,869186,30/01/2007,ONCOLOGÍA  ,C492,"Tumor maligno del tejido conjuntivo y tejido blando del miembro inferior, incluida la cadera",25/05/2023,F,MEJORÍA
+10/06/2023,869186,30/01/2007,ONCOLOGÍA  ,C499,"Tumor maligno del tejido conjuntivo y tejido blando, de sitio no especificado",19/06/2023,F,MEJORÍA
+15/07/2023,869186,30/01/2007,ONCOLOGÍA  ,C499,"Tumor maligno del tejido conjuntivo y tejido blando, de sitio no especificado",18/07/2023,F,MEJORÍA
+12/08/2023,869186,30/01/2007,ONCOLOGÍA  ,C499,"Tumor maligno del tejido conjuntivo y tejido blando, de sitio no especificado",16/08/2023,F,MEJORÍA
+21/08/2023,869186,30/01/2007,ONCOLOGÍA  ,C499,"Tumor maligno del tejido conjuntivo y tejido blando, de sitio no especificado",01/09/2023,F,MEJORÍA
+24/09/2023,869186,30/01/2007,ONCOLOGÍA  ,C763,Tumor maligno de la pelvis,27/09/2023,F,MEJORÍA
+10/11/2023,869186,30/01/2007,ONCOLOGÍA  ,C499,"Tumor maligno del tejido conjuntivo y tejido blando, de sitio no especificado",13/11/2023,F,MEJORÍA
+25/11/2023,869186,30/01/2007,ONCOLOGÍA  ,C499,"Tumor maligno del tejido conjuntivo y tejido blando, de sitio no especificado",28/11/2023,F,MEJORÍA
+08/12/2023,869186,30/01/2007,ONCOLOGÍA  ,D470,Tumor de comportamiento incierto o desconocido de los mastocitos e histiocitos,13/12/2023,F,MEJORÍA
+24/04/2023,869206,30/06/2014,ONCOLOGÍA  ,C400,Tumor maligno del omóplato y de los huesos largos del miembro superior,27/04/2023,M,MEJORÍA
+16/05/2023,869206,30/06/2014,ONCOLOGÍA  ,C400,Tumor maligno del omóplato y de los huesos largos del miembro superior,20/05/2023,M,MEJORÍA
+27/05/2023,869206,30/06/2014,ONCOLOGÍA  ,C400,Tumor maligno del omóplato y de los huesos largos del miembro superior,30/05/2023,M,MEJORÍA
+04/06/2023,869206,30/06/2014,ONCOLOGÍA  ,C400,Tumor maligno del omóplato y de los huesos largos del miembro superior,07/06/2023,M,MEJORÍA
+14/06/2023,869206,30/06/2014,ONCOLOGÍA  ,C400,Tumor maligno del omóplato y de los huesos largos del miembro superior,28/06/2023,M,MEJORÍA
+04/07/2023,869206,30/06/2014,ONCOLOGÍA  ,C400,Tumor maligno del omóplato y de los huesos largos del miembro superior,08/07/2023,M,MEJORÍA
+15/07/2023,869206,30/06/2014,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,19/07/2023,M,MEJORÍA
+08/08/2023,869206,30/06/2014,ONCOLOGÍA  ,C400,Tumor maligno del omóplato y de los huesos largos del miembro superior,12/08/2023,M,MEJORÍA
+12/09/2023,869206,30/06/2014,ONCOLOGÍA  ,C400,Tumor maligno del omóplato y de los huesos largos del miembro superior,14/09/2023,M,MEJORÍA
+21/09/2023,869206,30/06/2014,ONCOLOGÍA  ,C400,Tumor maligno del omóplato y de los huesos largos del miembro superior,27/09/2023,M,MEJORÍA
+03/10/2023,869206,30/06/2014,ONCOLOGÍA  ,C400,Tumor maligno del omóplato y de los huesos largos del miembro superior,06/10/2023,M,MEJORÍA
+14/10/2023,869206,30/06/2014,ONCOLOGÍA  ,C400,Tumor maligno del omóplato y de los huesos largos del miembro superior,18/10/2023,M,MEJORÍA
+24/10/2023,869206,30/06/2014,ONCOLOGÍA  ,C400,Tumor maligno del omóplato y de los huesos largos del miembro superior,29/10/2023,M,MEJORÍA
+28/11/2023,869206,30/06/2014,ONCOLOGÍA  ,C400,Tumor maligno del omóplato y de los huesos largos del miembro superior,02/12/2023,M,MEJORÍA
+09/12/2023,869206,30/06/2014,ONCOLOGÍA  ,C400,Tumor maligno del omóplato y de los huesos largos del miembro superior,13/12/2023,M,MEJORÍA
+23/12/2023,869206,30/06/2014,ONCOLOGÍA  ,C400,Tumor maligno del omóplato y de los huesos largos del miembro superior,26/12/2023,M,MEJORÍA
+21/07/2023,869216,06/02/2022,ONCOLOGÍA  ,C692,Tumor maligno de la retina,26/07/2023,F,MEJORÍA
+03/09/2023,869228,11/02/2008,ONCOLOGÍA  ,D696,Trombocitopenia no especificada,04/09/2023,M,MEJORÍA
+21/05/2023,869262,23/06/2015,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,24/05/2023,F,MEJORÍA
+30/05/2023,869262,23/06/2015,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,13/06/2023,F,MEJORÍA
+04/07/2023,869262,23/06/2015,ONCOLOGÍA  ,C409,"Tumor maligno de los huesos y de los cartílagos articulares de los miembros, sin otra especificación",07/07/2023,F,MEJORÍA
+13/07/2023,869262,23/06/2015,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,31/07/2023,F,MEJORÍA
+05/08/2023,869262,23/06/2015,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,09/08/2023,F,MEJORÍA
+18/08/2023,869262,23/06/2015,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,25/08/2023,F,MEJORÍA
+03/09/2023,869262,23/06/2015,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,06/09/2023,F,MEJORÍA
+04/10/2023,869262,23/06/2015,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,07/10/2023,F,MEJORÍA
+15/10/2023,869262,23/06/2015,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,02/11/2023,F,MEJORÍA
+06/11/2023,869262,23/06/2015,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,10/11/2023,F,MEJORÍA
+15/11/2023,869262,23/06/2015,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,20/11/2023,F,MEJORÍA
+28/11/2023,869262,23/06/2015,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,01/12/2023,F,MEJORÍA
+11/12/2023,869262,23/06/2015,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,22/12/2023,F,MEJORÍA
+26/12/2023,869262,23/06/2015,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,29/12/2023,F,MEJORÍA
+10/07/2023,869301,08/02/2010,ONCOLOGÍA  ,C73X,Tumor maligno de la glándula tiroides,13/07/2023,F,MEJORÍA
+14/08/2023,869333,11/01/2008,TRASPLANTE MED. OSEA,C817,Otros tipos de linfomas de Hodgkin clásicos,23/08/2023,M,MEJORÍA
+31/10/2023,869422,27/04/2016,ONCOLOGÍA  ,D580,Esferocitosis hereditaria,04/11/2023,M,MEJORÍA
+04/10/2023,869510,03/03/2022,ONCOLOGÍA  ,D474,Osteomielofibrosis,11/10/2023,M,MEJORÍA
+17/11/2023,869510,03/03/2022,ONCOLOGÍA  ,D474,Osteomielofibrosis,25/11/2023,M,MEJORÍA
+09/08/2023,869541,09/07/2007,ONCOLOGÍA  ,D461,Anemia refractaria con sideroblastos en forma de anillo,18/08/2023,F,MEJORÍA
+11/09/2023,869541,09/07/2007,TRASPLANTE MED. OSEA,Z948,Otros órganos y tejidos trasplantados,01/11/2023,F,MEJORÍA
+05/12/2023,869541,09/07/2007,ONCOLOGÍA  ,T860,Rechazo de trasplante de médula ósea,19/12/2023,F,MEJORÍA
+04/09/2023,869623,04/04/2014,TRASPLANTE MED. OSEA,C910,Leucemia linfoblástica aguda [LLA],12/09/2023,M,MEJORÍA
+14/09/2023,869623,04/04/2014,TRASPLANTE MED. OSEA,Z948,Otros órganos y tejidos trasplantados,03/11/2023,M,MEJORÍA
+11/11/2023,869623,04/04/2014,TRASPLANTE MED. OSEA,T860,Rechazo de trasplante de médula ósea,22/11/2023,M,MEJORÍA
+09/08/2023,869652,25/12/2013,ONCOLOGÍA  ,D619,"Anemia aplástica, sin otra especificación",05/09/2023,M,MEJORÍA
+18/12/2023,869652,25/12/2013,HEMATOLOGÍA           ,D696,Trombocitopenia no especificada,22/12/2023,M,MEJORÍA
+04/09/2023,869756,07/10/2013,TRASPLANTE MED. OSEA,C920,Leucemia mieloblástica aguda [LMA],08/09/2023,M,MEJORÍA
+30/10/2023,869756,07/10/2013,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],21/12/2023,M,MEJORÍA
+09/10/2023,869830,21/09/2022,ONCOLOGÍA  ,C692,Tumor maligno de la retina,12/10/2023,M,MEJORÍA
+06/01/2023,870012,15/06/2007,ONCOLOGÍA  ,Z516,Desensibilización a alérgenos,06/01/2023,M,MEJORÍA
+13/01/2023,870012,15/06/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],13/01/2023,M,MEJORÍA
+07/02/2023,870012,15/06/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],07/02/2023,M,MEJORÍA
+14/02/2023,870012,15/06/2007,ONCOLOGÍA  ,Z516,Desensibilización a alérgenos,14/02/2023,M,MEJORÍA
+09/03/2023,870012,15/06/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],09/03/2023,M,MEJORÍA
+16/03/2023,870012,15/06/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],16/03/2023,M,MEJORÍA
+07/04/2023,870012,15/06/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],07/04/2023,M,MEJORÍA
+14/04/2023,870012,15/06/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],14/04/2023,M,MEJORÍA
+05/05/2023,870012,15/06/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],05/05/2023,M,MEJORÍA
+12/05/2023,870012,15/06/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],12/05/2023,M,MEJORÍA
+02/06/2023,870012,15/06/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],02/06/2023,M,MEJORÍA
+09/06/2023,870012,15/06/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],09/06/2023,M,MEJORÍA
+05/07/2023,870012,15/06/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],05/07/2023,M,MEJORÍA
+12/07/2023,870012,15/06/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],12/07/2023,M,MEJORÍA
+28/07/2023,870012,15/06/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],28/07/2023,M,MEJORÍA
+04/08/2023,870012,15/06/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],04/08/2023,M,MEJORÍA
+25/08/2023,870012,15/06/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],01/09/2023,M,MEJORÍA
+22/09/2023,870012,15/06/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],22/09/2023,M,MEJORÍA
+29/09/2023,870012,15/06/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],29/09/2023,M,MEJORÍA
+20/10/2023,870012,15/06/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],20/10/2023,M,MEJORÍA
+27/10/2023,870012,15/06/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],27/10/2023,M,MEJORÍA
+03/11/2023,870012,15/06/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],03/11/2023,M,MEJORÍA
+17/11/2023,870012,15/06/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],17/11/2023,M,MEJORÍA
+25/11/2023,870012,15/06/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],25/11/2023,M,MEJORÍA
+03/12/2023,870012,15/06/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],03/12/2023,M,MEJORÍA
+16/12/2023,870012,15/06/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],16/12/2023,M,MEJORÍA
+23/12/2023,870012,15/06/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],23/12/2023,M,MEJORÍA
+30/12/2023,870012,15/06/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],30/12/2023,M,MEJORÍA
+16/01/2023,870013,10/12/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],19/01/2023,M,MEJORÍA
+06/03/2023,870013,10/12/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],09/03/2023,M,MEJORÍA
+07/09/2023,870013,10/12/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],09/09/2023,M,MEJORÍA
+31/10/2023,870013,10/12/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],06/11/2023,M,MEJORÍA
+19/11/2023,870013,10/12/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],23/11/2023,M,MEJORÍA
+11/12/2023,870013,10/12/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],14/12/2023,M,MEJORÍA
+02/01/2023,870081,17/05/2014,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],06/01/2023,M,MEJORÍA
+24/01/2023,870081,17/05/2014,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],28/01/2023,M,MEJORÍA
+15/04/2023,870081,17/05/2014,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],19/04/2023,M,MEJORÍA
+20/02/2023,870091,11/07/2006,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],24/02/2023,M,MEJORÍA
+05/09/2023,870091,11/07/2006,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],12/09/2023,M,MEJORÍA
+04/03/2023,870157,10/04/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],07/03/2023,M,MEJORÍA
+11/07/2023,870157,10/04/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],24/07/2023,M,MEJORÍA
+22/08/2023,870157,10/04/2018,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],04/09/2023,M,MEJORÍA
+07/01/2023,870204,04/09/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],10/01/2023,F,MEJORÍA
+05/03/2023,870204,04/09/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],08/03/2023,F,MEJORÍA
+20/05/2023,870204,04/09/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],25/05/2023,F,MEJORÍA
+26/09/2023,870204,04/09/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],04/10/2023,F,MEJORÍA
+07/11/2023,870204,04/09/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],14/11/2023,F,MEJORÍA
+11/12/2023,870204,04/09/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],16/12/2023,F,MEJORÍA
+13/02/2023,870216,22/05/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],23/02/2023,M,MEJORÍA
+13/03/2023,870216,22/05/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],16/03/2023,M,MEJORÍA
+23/05/2023,870216,22/05/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],26/05/2023,M,MEJORÍA
+17/08/2023,870216,22/05/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],23/08/2023,M,MEJORÍA
+06/10/2023,870216,22/05/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],09/10/2023,M,MEJORÍA
+14/12/2023,870216,22/05/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],20/12/2023,M,MEJORÍA
+24/07/2023,870226,29/12/2007,HEMATOLOGÍA           ,C763,Tumor maligno de la pelvis,26/09/2023,F,MEJORÍA
+10/10/2023,870226,29/12/2007,ONCOLOGÍA  ,C492,"Tumor maligno del tejido conjuntivo y tejido blando del miembro inferior, incluida la cadera",10/10/2023,F,MEJORÍA
+09/01/2023,870255,10/01/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],10/01/2023,M,MEJORÍA
+02/02/2023,870255,10/01/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],03/02/2023,M,MEJORÍA
+12/05/2023,870255,10/01/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],15/05/2023,M,MEJORÍA
+25/05/2023,870255,10/01/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],31/05/2023,M,MEJORÍA
+29/03/2023,870382,12/03/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],01/04/2023,M,MEJORÍA
+17/02/2023,870387,29/05/2010,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],21/02/2023,M,MEJORÍA
+19/04/2023,870387,29/05/2010,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],30/04/2023,M,MEJORÍA
+26/01/2023,870419,14/10/2021,ONCOLOGÍA  ,C700,Tumor maligno de las meninges cerebrales,08/02/2023,F,MEJORÍA
+07/03/2023,870419,14/10/2021,ONCOLOGÍA  ,C700,Tumor maligno de las meninges cerebrales,10/03/2023,F,MEJORÍA
+19/03/2023,870419,14/10/2021,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,21/03/2023,F,DEFUNCIÓN
+03/01/2023,870467,12/02/2011,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,06/01/2023,M,MEJORÍA
+20/01/2023,870467,12/02/2011,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,24/01/2023,M,MEJORÍA
+04/02/2023,870467,12/02/2011,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,08/02/2023,M,MEJORÍA
+08/02/2023,870504,18/03/2015,ONCOLOGÍA  ,C412,Tumor maligno de la columna vertebral,28/02/2023,F,MEJORÍA
+02/01/2023,870506,20/04/2017,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],05/01/2023,M,MEJORÍA
+18/01/2023,870506,20/04/2017,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],23/01/2023,M,MEJORÍA
+18/03/2023,870506,20/04/2017,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],22/03/2023,M,MEJORÍA
+14/09/2023,870506,20/04/2017,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],19/09/2023,M,MEJORÍA
+31/07/2023,870539,06/07/2007,ONCOLOGÍA  ,C73X,Tumor maligno de la glándula tiroides,03/08/2023,F,MEJORÍA
+13/01/2023,870572,01/02/2020,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],19/01/2023,M,MEJORÍA
+30/03/2023,870572,01/02/2020,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],07/04/2023,M,MEJORÍA
+28/09/2023,870572,01/02/2020,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],03/10/2023,M,MEJORÍA
+24/12/2022,870642,30/05/2011,ONCOLOGÍA  ,C719,"Tumor maligno del encéfalo, parte no especificada",05/01/2023,F,MEJORÍA
+14/02/2023,870680,31/05/2013,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],23/02/2023,M,MEJORÍA
+07/03/2023,870680,31/05/2013,TRASPLANTE MED. OSEA,C910,Leucemia linfoblástica aguda [LLA],17/03/2023,M,ALTA VOLUNTARIA
+25/05/2023,870680,31/05/2013,TRASPLANTE MED. OSEA,C910,Leucemia linfoblástica aguda [LLA],05/06/2023,M,MEJORÍA
+27/06/2023,870680,31/05/2013,TRASPLANTE MED. OSEA,Z948,Otros órganos y tejidos trasplantados,18/08/2023,M,MEJORÍA
+28/12/2022,870681,15/10/2021,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],10/01/2023,M,MEJORÍA
+31/01/2023,870681,15/10/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],27/02/2023,M,MEJORÍA
+16/03/2023,870681,15/10/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],23/03/2023,M,MEJORÍA
+23/04/2023,870681,15/10/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],28/04/2023,M,MEJORÍA
+21/11/2023,870681,15/10/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],27/11/2023,M,MEJORÍA
+11/01/2023,870695,24/01/2021,ONCOLOGÍA  ,C760,"Tumor maligno de la cabeza, cara y cuello",16/01/2023,F,MEJORÍA
+23/01/2023,870695,24/01/2021,ONCOLOGÍA  ,C767,Tumor maligno de otros sitios mal definidos,28/01/2023,F,MEJORÍA
+02/01/2023,870700,06/02/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],09/01/2023,F,MEJORÍA
+19/01/2023,870700,06/02/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],24/01/2023,F,MEJORÍA
+29/01/2023,870700,06/02/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],03/02/2023,F,MEJORÍA
+03/03/2023,870700,06/02/2011,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],07/03/2023,F,MEJORÍA
+02/06/2023,870700,06/02/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],05/06/2023,F,MEJORÍA
+20/07/2023,870700,06/02/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],25/07/2023,F,MEJORÍA
+06/02/2023,870703,23/11/2011,ONCOLOGÍA  ,C710,"Tumor maligno del cerebro, excepto lóbulos y ventrículos",09/02/2023,F,MEJORÍA
+19/02/2023,870703,23/11/2011,HEMATOLOGÍA           ,A418,Otras sepsis especificadas,12/04/2023,F,MEJORÍA
+16/03/2023,870713,20/01/2018,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],25/03/2023,F,MEJORÍA
+28/03/2023,870713,20/01/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],30/03/2023,F,MEJORÍA
+20/01/2023,870719,17/07/2020,ONCOLOGÍA  ,C749,"Tumor maligno de la glándula suprarrenal, parte no especificada",24/01/2023,M,MEJORÍA
+15/02/2023,870719,17/07/2020,ONCOLOGÍA  ,C749,"Tumor maligno de la glándula suprarrenal, parte no especificada",20/02/2023,M,MEJORÍA
+02/03/2023,870719,17/07/2020,ONCOLOGÍA  ,C749,"Tumor maligno de la glándula suprarrenal, parte no especificada",07/03/2023,M,MEJORÍA
+14/11/2023,870719,17/07/2020,ONCOLOGÍA  ,C749,"Tumor maligno de la glándula suprarrenal, parte no especificada",02/12/2023,M,MEJORÍA
+19/12/2023,870719,17/07/2020,ONCOLOGÍA  ,C749,"Tumor maligno de la glándula suprarrenal, parte no especificada",24/12/2023,M,MEJORÍA
+02/01/2023,870725,16/03/2010,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],27/01/2023,F,MEJORÍA
+07/04/2023,870725,16/03/2010,ONCOLOGÍA  ,K521,Colitis y gastroenteritis tóxicas,18/04/2023,F,MEJORÍA
+15/07/2023,870725,16/03/2010,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],18/07/2023,F,MEJORÍA
+22/01/2023,870731,10/05/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],08/02/2023,M,MEJORÍA
+19/02/2023,870731,10/05/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],22/02/2023,M,MEJORÍA
+04/04/2023,870731,10/05/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],11/04/2023,M,MEJORÍA
+04/05/2023,870731,10/05/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],10/05/2023,M,MEJORÍA
+09/08/2023,870731,10/05/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],26/08/2023,M,MEJORÍA
+16/09/2023,870731,10/05/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],25/09/2023,M,MEJORÍA
+10/11/2023,870731,10/05/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],15/11/2023,M,MEJORÍA
+14/12/2022,870733,10/03/2008,ONCOLOGÍA  ,C857,Otros tipos especificados de linfoma no Hodgkin,07/01/2023,M,MEJORÍA
+04/02/2023,870733,10/03/2008,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],11/02/2023,M,MEJORÍA
+19/04/2023,870733,10/03/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],22/04/2023,M,MEJORÍA
+31/08/2023,870733,10/03/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],06/09/2023,M,MEJORÍA
+27/10/2023,870746,25/03/2021,ONCOLOGÍA  ,D819,"Inmunodeficiencia combinada, no especificada",26/11/2023,F,MEJORÍA
+03/12/2023,870746,25/03/2021,ONCOLOGÍA  ,D819,"Inmunodeficiencia combinada, no especificada",07/12/2023,F,MEJORÍA
+23/01/2023,870757,07/03/2013,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],27/01/2023,F,MEJORÍA
+09/02/2023,870757,07/03/2013,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],13/02/2023,F,MEJORÍA
+02/03/2023,870757,07/03/2013,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],08/03/2023,F,MEJORÍA
+19/03/2023,870757,07/03/2013,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],27/03/2023,F,MEJORÍA
+21/04/2023,870757,07/03/2013,ONCOLOGÍA  ,L033,Celulitis del tronco,27/04/2023,F,MEJORÍA
+06/06/2023,870757,07/03/2013,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],07/06/2023,F,MEJORÍA
+13/06/2023,870757,07/03/2013,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],14/06/2023,F,MEJORÍA
+19/06/2023,870757,07/03/2013,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],21/06/2023,F,MEJORÍA
+26/06/2023,870757,07/03/2013,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],28/06/2023,F,MEJORÍA
+03/07/2023,870757,07/03/2013,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],05/07/2023,F,MEJORÍA
+11/07/2023,870757,07/03/2013,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],12/07/2023,F,MEJORÍA
+17/07/2023,870757,07/03/2013,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],19/07/2023,F,MEJORÍA
+24/07/2023,870757,07/03/2013,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],25/07/2023,F,MEJORÍA
+26/07/2023,870757,07/03/2013,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],28/07/2023,F,MEJORÍA
+02/08/2023,870757,07/03/2013,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],04/08/2023,F,MEJORÍA
+09/08/2023,870757,07/03/2013,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],11/08/2023,F,MEJORÍA
+16/08/2023,870757,07/03/2013,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],18/08/2023,F,MEJORÍA
+23/08/2023,870757,07/03/2013,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],26/08/2023,F,MEJORÍA
+06/09/2023,870757,07/03/2013,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],19/09/2023,F,MEJORÍA
+01/01/2023,870758,23/06/2015,ONCOLOGÍA  ,C710,"Tumor maligno del cerebro, excepto lóbulos y ventrículos",02/01/2023,F,DEFUNCIÓN
+07/01/2023,870787,12/07/2013,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,12/01/2023,M,MEJORÍA
+20/01/2023,870787,12/07/2013,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,24/01/2023,M,MEJORÍA
+01/02/2023,870787,12/07/2013,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,02/02/2023,M,MEJORÍA
+19/02/2023,870787,12/07/2013,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,23/02/2023,M,MEJORÍA
+09/03/2023,870787,12/07/2013,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,13/03/2023,M,MEJORÍA
+22/03/2023,870787,12/07/2013,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,24/03/2023,M,MEJORÍA
+03/04/2023,870787,12/07/2013,ONCOLOGÍA  ,Z895,Ausencia adquirida de pierna a nivel de o debajo de la rodilla,14/04/2023,M,MEJORÍA
+25/04/2023,870787,12/07/2013,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,30/04/2023,M,MEJORÍA
+02/01/2023,870797,19/04/2017,ONCOLOGÍA  ,D619,"Anemia aplástica, sin otra especificación",04/01/2023,F,MEJORÍA
+13/01/2023,870797,19/04/2017,HEMATOLOGÍA           ,D619,"Anemia aplástica, sin otra especificación",17/01/2023,F,MEJORÍA
+24/02/2023,870797,19/04/2017,ONCOLOGÍA  ,D618,Otras anemias aplásticas especificadas,02/03/2023,F,MEJORÍA
+05/04/2023,870797,19/04/2017,ONCOLOGÍA  ,D610,Anemia aplástica constitucional,03/06/2023,F,DEFUNCIÓN
+02/01/2023,870800,21/10/2018,ONCOLOGÍA  ,C833,Linfoma de células grandes B difuso,06/01/2023,M,MEJORÍA
+23/05/2023,870819,26/12/2021,HEMATOLOGÍA           ,Q549,"Hipospadias, no especificada",24/05/2023,M,MEJORÍA
+04/04/2023,870826,13/12/2016,ONCOLOGÍA  ,C492,"Tumor maligno del tejido conjuntivo y tejido blando del miembro inferior, incluida la cadera",07/04/2023,M,MEJORÍA
+27/04/2023,870826,13/12/2016,ONCOLOGÍA  ,C414,"Tumor maligno de los huesos de la pelvis, sacro y cóccix",29/04/2023,M,MEJORÍA
+20/05/2023,870826,13/12/2016,ONCOLOGÍA  ,C492,"Tumor maligno del tejido conjuntivo y tejido blando del miembro inferior, incluida la cadera",23/05/2023,M,MEJORÍA
+09/06/2023,870826,13/12/2016,ONCOLOGÍA  ,C414,"Tumor maligno de los huesos de la pelvis, sacro y cóccix",12/06/2023,M,MEJORÍA
+02/07/2023,870826,13/12/2016,ONCOLOGÍA  ,C492,"Tumor maligno del tejido conjuntivo y tejido blando del miembro inferior, incluida la cadera",05/07/2023,M,MEJORÍA
+25/07/2023,870826,13/12/2016,ONCOLOGÍA  ,C780,Tumor maligno secundario del pulmón,07/08/2023,M,MEJORÍA
+25/08/2023,870826,13/12/2016,ONCOLOGÍA  ,C414,"Tumor maligno de los huesos de la pelvis, sacro y cóccix",28/08/2023,M,MEJORÍA
+18/01/2023,870852,09/02/2011,ONCOLOGÍA  ,C845,Otros linfomas de células T/NK maduras,23/01/2023,M,MEJORÍA
+24/02/2023,870852,09/02/2011,ONCOLOGÍA  ,C845,Otros linfomas de células T/NK maduras,17/03/2023,M,MEJORÍA
+25/03/2023,870852,09/02/2011,ONCOLOGÍA  ,C845,Otros linfomas de células T/NK maduras,28/03/2023,M,MEJORÍA
+04/04/2023,870852,09/02/2011,ONCOLOGÍA  ,C845,Otros linfomas de células T/NK maduras,08/04/2023,M,MEJORÍA
+20/05/2023,870852,09/02/2011,ONCOLOGÍA  ,C845,Otros linfomas de células T/NK maduras,24/05/2023,M,MEJORÍA
+12/07/2023,870852,09/02/2011,ONCOLOGÍA  ,C845,Otros linfomas de células T/NK maduras,19/07/2023,M,MEJORÍA
+19/08/2023,870852,09/02/2011,ONCOLOGÍA  ,C845,Otros linfomas de células T/NK maduras,22/08/2023,M,MEJORÍA
+13/09/2023,870852,09/02/2011,ONCOLOGÍA  ,C835,Linfoma linfoblástico (difuso),21/09/2023,M,MEJORÍA
+19/10/2023,870852,09/02/2011,ONCOLOGÍA  ,C835,Linfoma linfoblástico (difuso),02/11/2023,M,MEJORÍA
+24/02/2023,870895,05/09/2012,ONCOLOGÍA  ,C729,"Tumor maligno del sistema nervioso central, sin otra especificación",27/02/2023,F,MEJORÍA
+06/03/2023,870895,05/09/2012,ONCOLOGÍA  ,C719,"Tumor maligno del encéfalo, parte no especificada",25/04/2023,F,MEJORÍA
+07/06/2023,870962,01/04/2016,ONCOLOGÍA  ,C848,"Linfoma cutáneo de células T, no especificado",07/06/2023,M,DEFUNCIÓN
+26/02/2023,870968,30/06/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],21/03/2023,M,DEFUNCIÓN
+25/01/2023,870980,12/07/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],30/01/2023,F,MEJORÍA
+12/01/2023,870992,29/05/2008,ONCOLOGÍA  ,C753,Tumor maligno de la glándula pineal,15/01/2023,M,MEJORÍA
+23/01/2023,870992,29/05/2008,ONCOLOGÍA  ,C710,"Tumor maligno del cerebro, excepto lóbulos y ventrículos",02/02/2023,M,MEJORÍA
+16/02/2023,870992,29/05/2008,ONCOLOGÍA  ,C710,"Tumor maligno del cerebro, excepto lóbulos y ventrículos",19/02/2023,M,MEJORÍA
+27/02/2023,870992,29/05/2008,ONCOLOGÍA  ,C710,"Tumor maligno del cerebro, excepto lóbulos y ventrículos",03/03/2023,M,MEJORÍA
+13/01/2023,871019,12/08/2017,ONCOLOGÍA  ,B178,Otras hepatitis virales agudas especificadas,18/01/2023,M,MEJORÍA
+17/02/2023,871019,12/08/2017,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],21/02/2023,M,MEJORÍA
+16/03/2023,871019,12/08/2017,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],22/03/2023,M,MEJORÍA
+30/07/2023,871019,12/08/2017,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],02/08/2023,M,MEJORÍA
+02/01/2023,871046,02/03/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],06/01/2023,F,MEJORÍA
+23/01/2023,871046,02/03/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],27/01/2023,F,MEJORÍA
+10/02/2023,871046,02/03/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],14/02/2023,F,MEJORÍA
+26/02/2023,871046,02/03/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],02/03/2023,F,MEJORÍA
+03/05/2023,871046,02/03/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],09/05/2023,F,MEJORÍA
+26/09/2023,871046,02/03/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],28/09/2023,F,MEJORÍA
+22/07/2023,871047,09/02/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],26/07/2023,F,MEJORÍA
+27/01/2023,871095,30/09/2006,ONCOLOGÍA  ,C383,"Tumor maligno del mediastino, parte no especificada",01/02/2023,M,MEJORÍA
+10/03/2023,871095,30/09/2006,ONCOLOGÍA  ,C383,"Tumor maligno del mediastino, parte no especificada",15/03/2023,M,MEJORÍA
+04/05/2023,871095,30/09/2006,ONCOLOGÍA  ,C383,"Tumor maligno del mediastino, parte no especificada",09/05/2023,M,MEJORÍA
+31/07/2023,871095,30/09/2006,ONCOLOGÍA  ,C383,"Tumor maligno del mediastino, parte no especificada",04/08/2023,M,MEJORÍA
+08/01/2023,871105,17/02/2007,ONCOLOGÍA  ,C755,Tumor maligno del cuerpo aórtico y otros cuerpos cromafines,22/01/2023,F,DEFUNCIÓN
+22/02/2023,871108,27/07/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],24/03/2023,F,MEJORÍA
+01/04/2023,871108,27/07/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],07/04/2023,F,MEJORÍA
+15/04/2023,871108,27/07/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],18/05/2023,F,DEFUNCIÓN
+20/10/2023,871134,02/03/2015,ONCOLOGÍA  ,C222,Hepatoblastoma,23/10/2023,M,MEJORÍA
+18/11/2023,871134,02/03/2015,ONCOLOGÍA  ,C222,Hepatoblastoma,21/11/2023,M,MEJORÍA
+17/12/2023,871134,02/03/2015,ONCOLOGÍA  ,C222,Hepatoblastoma,20/12/2023,M,MEJORÍA
+27/12/2022,871158,11/09/2015,ONCOLOGÍA  ,C837,Linfoma de Burkitt,03/01/2023,M,MEJORÍA
+17/01/2023,871158,11/09/2015,ONCOLOGÍA  ,C837,Linfoma de Burkitt,23/01/2023,M,MEJORÍA
+01/02/2023,871158,11/09/2015,ONCOLOGÍA  ,C837,Linfoma de Burkitt,07/04/2023,M,MEJORÍA
+14/01/2023,871169,19/04/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],19/01/2023,F,MEJORÍA
+08/02/2023,871169,19/04/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],14/02/2023,F,MEJORÍA
+31/03/2023,871169,19/04/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],06/04/2023,F,MEJORÍA
+31/05/2023,871169,19/04/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],13/06/2023,F,MEJORÍA
+19/07/2023,871169,19/04/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],21/07/2023,F,MEJORÍA
+25/07/2023,871169,19/04/2018,ONCOLOGÍA  ,Q400,Estenosis hipertrófica congénita del píloro,21/07/2023,F,MEJORÍA
+09/01/2023,871175,20/10/2010,ONCOLOGÍA  ,D093,Carcinoma in situ de la glándula tiroides y de otras glándulas endocrinas,12/01/2023,F,MEJORÍA
+23/02/2023,871177,23/07/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],15/03/2023,M,MEJORÍA
+26/03/2023,871177,23/07/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],29/03/2023,M,MEJORÍA
+05/05/2023,871177,23/07/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],11/05/2023,M,MEJORÍA
+18/06/2023,871177,23/07/2016,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],23/06/2023,M,MEJORÍA
+12/12/2023,871177,23/07/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],15/12/2023,M,MEJORÍA
+10/01/2023,871183,05/01/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],16/01/2023,M,MEJORÍA
+28/01/2023,871183,05/01/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],01/02/2023,M,MEJORÍA
+11/02/2023,871183,05/01/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],15/02/2023,M,MEJORÍA
+12/06/2023,871183,05/01/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],15/06/2023,M,MEJORÍA
+09/07/2023,871183,05/01/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],11/07/2023,M,MEJORÍA
+26/07/2023,871183,05/01/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],04/08/2023,M,MEJORÍA
+13/11/2023,871183,05/01/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],20/11/2023,M,MEJORÍA
+17/11/2022,871186,11/01/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],19/01/2023,F,MEJORÍA
+05/02/2023,871186,11/01/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],10/02/2023,F,MEJORÍA
+16/02/2023,871186,11/01/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],20/02/2023,F,MEJORÍA
+09/03/2023,871186,11/01/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],13/03/2023,F,MEJORÍA
+18/03/2023,871186,11/01/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],29/03/2023,F,MEJORÍA
+08/06/2023,871186,11/01/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],16/06/2023,F,MEJORÍA
+05/07/2023,871186,11/01/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],14/07/2023,F,MEJORÍA
+19/07/2023,871186,11/01/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],20/07/2023,F,MEJORÍA
+25/07/2023,871186,11/01/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],01/08/2023,F,MEJORÍA
+17/08/2023,871186,11/01/2011,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],26/08/2023,F,MEJORÍA
+29/08/2023,871186,11/01/2011,ONCOLOGÍA  ,T818,"Otras complicaciones de procedimientos, no clasificadas en otra parte",31/08/2023,F,MEJORÍA
+13/09/2023,871186,11/01/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],21/09/2023,F,MEJORÍA
+25/09/2023,871186,11/01/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],22/10/2023,F,MEJORÍA
+28/10/2023,871186,11/01/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],31/10/2023,F,MEJORÍA
+03/11/2023,871186,11/01/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],07/11/2023,F,MEJORÍA
+02/01/2023,871187,03/01/2020,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],05/01/2023,F,MEJORÍA
+15/01/2023,871187,03/01/2020,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],24/01/2023,F,MEJORÍA
+06/03/2023,871187,03/01/2020,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],12/03/2023,F,MEJORÍA
+03/04/2023,871187,03/01/2020,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],11/04/2023,F,MEJORÍA
+24/04/2023,871187,03/01/2020,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],04/05/2023,F,MEJORÍA
+13/05/2023,871187,03/01/2020,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],20/05/2023,F,MEJORÍA
+21/05/2023,871187,03/01/2020,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],31/05/2023,F,MEJORÍA
+21/06/2023,871187,03/01/2020,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],04/07/2023,F,MEJORÍA
+05/08/2023,871187,03/01/2020,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],19/08/2023,F,MEJORÍA
+03/10/2023,871187,03/01/2020,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],06/10/2023,F,MEJORÍA
+25/01/2023,871202,11/07/2018,ONCOLOGÍA  ,C753,Tumor maligno de la glándula pineal,28/01/2023,M,MEJORÍA
+01/03/2023,871202,11/07/2018,ONCOLOGÍA  ,C753,Tumor maligno de la glándula pineal,04/03/2023,M,MEJORÍA
+30/03/2023,871202,11/07/2018,ONCOLOGÍA  ,C753,Tumor maligno de la glándula pineal,02/04/2023,M,MEJORÍA
+18/06/2023,871202,11/07/2018,ONCOLOGÍA  ,C753,Tumor maligno de la glándula pineal,23/06/2023,M,MEJORÍA
+05/07/2023,871202,11/07/2018,ONCOLOGÍA  ,C753,Tumor maligno de la glándula pineal,09/07/2023,M,MEJORÍA
+17/07/2023,871202,11/07/2018,ONCOLOGÍA  ,C753,Tumor maligno de la glándula pineal,27/07/2023,M,MEJORÍA
+09/08/2023,871202,11/07/2018,ONCOLOGÍA  ,C753,Tumor maligno de la glándula pineal,11/08/2023,M,MEJORÍA
+20/08/2023,871202,11/07/2018,ONCOLOGÍA  ,C753,Tumor maligno de la glándula pineal,26/08/2023,M,MEJORÍA
+12/09/2023,871202,11/07/2018,ONCOLOGÍA  ,C753,Tumor maligno de la glándula pineal,15/09/2023,M,MEJORÍA
+24/09/2023,871202,11/07/2018,HEMATOLOGÍA           ,C753,Tumor maligno de la glándula pineal,28/09/2023,M,MEJORÍA
+22/10/2023,871202,11/07/2018,ONCOLOGÍA  ,C753,Tumor maligno de la glándula pineal,25/10/2023,M,MEJORÍA
+29/10/2023,871202,11/07/2018,ONCOLOGÍA  ,C753,Tumor maligno de la glándula pineal,06/11/2023,M,MEJORÍA
+29/11/2023,871202,11/07/2018,ONCOLOGÍA  ,C753,Tumor maligno de la glándula pineal,02/12/2023,M,MEJORÍA
+08/12/2023,871202,11/07/2018,ONCOLOGÍA  ,C753,Tumor maligno de la glándula pineal,10/12/2023,M,MEJORÍA
+14/12/2023,871202,11/07/2018,HEMATOLOGÍA           ,C753,Tumor maligno de la glándula pineal,23/12/2023,M,DEFUNCIÓN
+19/01/2023,871208,15/06/2013,ONCOLOGÍA  ,C720,Tumor maligno de la médula espinal,24/02/2023,M,DEFUNCIÓN
+06/12/2022,871219,16/04/2009,ONCOLOGÍA  ,D619,"Anemia aplástica, sin otra especificación",16/01/2023,F,MEJORÍA
+14/01/2023,871244,26/06/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],18/01/2023,M,MEJORÍA
+10/02/2023,871244,26/06/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],14/02/2023,M,MEJORÍA
+25/02/2023,871244,26/06/2012,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],27/02/2023,M,MEJORÍA
+28/06/2023,871244,26/06/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],07/07/2023,M,MEJORÍA
+05/12/2023,871244,26/06/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],13/12/2023,M,MEJORÍA
+13/01/2023,871250,18/12/2016,ONCOLOGÍA  ,C917,Otras leucemias linfoides,18/01/2023,M,MEJORÍA
+02/02/2023,871250,18/12/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],09/02/2023,M,MEJORÍA
+21/09/2023,871250,18/12/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],23/09/2023,M,MEJORÍA
+02/10/2023,871250,18/12/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],13/10/2023,M,MEJORÍA
+17/12/2023,871250,18/12/2016,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],22/12/2023,M,MEJORÍA
+11/01/2023,871269,08/10/2007,ONCOLOGÍA  ,C56X,Tumor maligno del ovario,16/01/2023,F,MEJORÍA
+01/04/2023,871272,07/02/2016,ONCOLOGÍA  ,C119,"Tumor maligno de la nasofaringe, parte no especificada",07/04/2023,F,MEJORÍA
+16/12/2023,871272,07/02/2016,ONCOLOGÍA  ,C119,"Tumor maligno de la nasofaringe, parte no especificada",20/12/2023,F,MEJORÍA
+09/01/2023,871275,30/09/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],13/01/2023,F,MEJORÍA
+29/01/2023,871275,30/09/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],02/02/2023,F,MEJORÍA
+23/03/2023,871275,30/09/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],31/03/2023,F,MEJORÍA
+20/07/2023,871275,30/09/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],22/07/2023,F,MEJORÍA
+04/09/2023,871275,30/09/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],08/09/2023,F,MEJORÍA
+24/10/2023,871275,30/09/2012,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],31/10/2023,F,MEJORÍA
+21/11/2023,871275,30/09/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],27/12/2023,F,MEJORÍA
+08/01/2023,871276,24/05/2016,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,13/01/2023,M,MEJORÍA
+08/02/2023,871276,24/05/2016,HEMATOLOGÍA           ,C40,Tumor maligno de los huesos y de los cartílagos articulares de los miembros,13/02/2023,M,MEJORÍA
+19/02/2023,871276,24/05/2016,ONCOLOGÍA  ,C780,Tumor maligno secundario del pulmón,07/03/2023,M,MEJORÍA
+02/01/2023,871308,02/10/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],09/01/2023,M,MEJORÍA
+27/01/2023,871308,02/10/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],03/02/2023,M,MEJORÍA
+27/11/2023,871308,02/10/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],02/12/2023,M,MEJORÍA
+15/12/2023,871308,02/10/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],19/12/2023,M,MEJORÍA
+17/01/2023,871328,10/04/2011,ONCOLOGÍA  ,C822,Linfoma folicular grado III no especificado,24/01/2023,M,MEJORÍA
+12/02/2023,871328,10/04/2011,ONCOLOGÍA  ,C822,Linfoma folicular grado III no especificado,17/02/2023,M,MEJORÍA
+08/02/2023,871329,02/10/2017,ONCOLOGÍA  ,C479,"Tumor maligno de los nervios periféricos y del sistema nervioso autónomo, parte no especificada",23/02/2023,F,MEJORÍA
+24/03/2023,871335,01/02/2007,ONCOLOGÍA  ,D002,Carcinoma in situ del estómago,27/03/2023,F,MEJORÍA
+18/04/2023,871335,01/02/2007,ONCOLOGÍA  ,D002,Carcinoma in situ del estómago,20/05/2023,F,MEJORÍA
+18/02/2023,871340,08/10/2008,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,22/02/2023,M,MEJORÍA
+03/03/2023,871340,08/10/2008,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,08/03/2023,M,MEJORÍA
+29/03/2023,871340,08/10/2008,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,01/04/2023,M,MEJORÍA
+27/04/2023,871340,08/10/2008,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,03/05/2023,M,MEJORÍA
+12/05/2023,871340,08/10/2008,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,21/05/2023,M,MEJORÍA
+02/06/2023,871340,08/10/2008,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,06/06/2023,M,MEJORÍA
+29/06/2023,871340,08/10/2008,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,01/07/2023,M,MEJORÍA
+01/08/2023,871340,08/10/2008,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,04/08/2023,M,MEJORÍA
+04/09/2023,871340,08/10/2008,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,07/09/2023,M,MEJORÍA
+09/10/2023,871340,08/10/2008,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,12/10/2023,M,MEJORÍA
+22/10/2023,871340,08/10/2008,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,21/11/2023,M,MEJORÍA
+23/11/2023,871340,08/10/2008,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,27/11/2023,M,MEJORÍA
+26/12/2023,871340,08/10/2008,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,29/12/2023,M,MEJORÍA
+15/01/2023,871365,20/12/2016,ONCOLOGÍA  ,D618,Otras anemias aplásticas especificadas,20/01/2023,M,MEJORÍA
+03/02/2023,871365,20/12/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],07/02/2023,M,MEJORÍA
+23/02/2023,871365,20/12/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],27/02/2023,M,MEJORÍA
+02/03/2023,871365,20/12/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],05/03/2023,M,MEJORÍA
+16/03/2023,871365,20/12/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],22/03/2023,M,MEJORÍA
+27/05/2023,871365,20/12/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],02/06/2023,M,MEJORÍA
+17/08/2023,871365,20/12/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],20/08/2023,M,MEJORÍA
+23/01/2023,871387,07/05/2006,ONCOLOGÍA  ,F059,"Delirio, no especificado",21/02/2023,F,MEJORÍA
+12/04/2023,871387,07/05/2006,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,15/04/2023,F,MEJORÍA
+30/05/2023,871387,07/05/2006,HEMATOLOGÍA           ,C716,Tumor maligno del cerebelo,27/06/2023,F,DEFUNCIÓN
+02/02/2023,871390,06/02/2021,ONCOLOGÍA  ,C222,Hepatoblastoma,05/02/2023,M,MEJORÍA
+07/04/2023,871390,06/02/2021,ONCOLOGÍA  ,C222,Hepatoblastoma,10/04/2023,M,MEJORÍA
+17/04/2023,871390,06/02/2021,ONCOLOGÍA  ,C222,Hepatoblastoma,01/05/2023,M,MEJORÍA
+16/06/2023,871390,06/02/2021,ONCOLOGÍA  ,C222,Hepatoblastoma,19/06/2023,M,MEJORÍA
+12/07/2023,871390,06/02/2021,ONCOLOGÍA  ,C222,Hepatoblastoma,15/07/2023,M,MEJORÍA
+04/09/2023,871390,06/02/2021,ONCOLOGÍA  ,C222,Hepatoblastoma,09/09/2023,M,MEJORÍA
+18/07/2023,871399,17/12/2018,ONCOLOGÍA  ,C240,Tumor maligno de las vías biliares extrahepáticas,25/07/2023,F,MEJORÍA
+21/10/2023,871399,17/12/2018,ONCOLOGÍA  ,C240,Tumor maligno de las vías biliares extrahepáticas,31/10/2023,F,MEJORÍA
+18/01/2023,871404,09/05/2022,ONCOLOGÍA  ,C699,"Tumor maligno del ojo, parte no especificada",22/01/2023,M,MEJORÍA
+21/02/2023,871404,09/05/2022,ONCOLOGÍA  ,C723,Tumor maligno del nervio óptico,25/02/2023,M,MEJORÍA
+06/03/2023,871404,09/05/2022,ONCOLOGÍA  ,C723,Tumor maligno del nervio óptico,11/03/2023,M,MEJORÍA
+18/03/2023,871404,09/05/2022,ONCOLOGÍA  ,C719,"Tumor maligno del encéfalo, parte no especificada",21/03/2023,M,MEJORÍA
+16/04/2023,871404,09/05/2022,ONCOLOGÍA  ,C717,Tumor maligno del pedúnculo cerebral,19/04/2023,M,MEJORÍA
+27/04/2023,871404,09/05/2022,ONCOLOGÍA  ,C719,"Tumor maligno del encéfalo, parte no especificada",04/05/2023,M,MEJORÍA
+05/06/2023,871404,09/05/2022,ONCOLOGÍA  ,C723,Tumor maligno del nervio óptico,06/06/2023,M,MEJORÍA
+14/07/2023,871404,09/05/2022,ONCOLOGÍA  ,C723,Tumor maligno del nervio óptico,21/07/2023,M,MEJORÍA
+28/01/2023,871419,08/06/2011,ONCOLOGÍA  ,C857,Otros tipos especificados de linfoma no Hodgkin,02/02/2023,M,MEJORÍA
+11/02/2023,871419,08/06/2011,ONCOLOGÍA  ,C831,Linfoma de células del manto,21/02/2023,M,MEJORÍA
+27/02/2023,871419,08/06/2011,ONCOLOGÍA  ,C831,Linfoma de células del manto,02/03/2023,M,MEJORÍA
+20/04/2023,871419,08/06/2011,ONCOLOGÍA  ,C831,Linfoma de células del manto,24/04/2023,M,MEJORÍA
+28/05/2023,871419,08/06/2011,ONCOLOGÍA  ,C831,Linfoma de células del manto,03/06/2023,M,MEJORÍA
+13/06/2023,871419,08/06/2011,ONCOLOGÍA  ,C831,Linfoma de células del manto,25/06/2023,M,MEJORÍA
+28/06/2023,871419,08/06/2011,ONCOLOGÍA  ,C835,Linfoma linfoblástico (difuso),03/07/2023,M,MEJORÍA
+31/07/2023,871419,08/06/2011,ONCOLOGÍA  ,C835,Linfoma linfoblástico (difuso),08/08/2023,M,MEJORÍA
+04/09/2023,871419,08/06/2011,ONCOLOGÍA  ,C835,Linfoma linfoblástico (difuso),11/08/2023,M,MEJORÍA
+01/11/2023,871419,08/06/2011,ONCOLOGÍA  ,C835,Linfoma linfoblástico (difuso),13/11/2023,M,MEJORÍA
+02/01/2023,871420,05/01/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],06/01/2023,M,MEJORÍA
+17/01/2023,871420,05/01/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],23/01/2023,M,MEJORÍA
+31/01/2023,871420,05/01/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],12/02/2023,M,MEJORÍA
+18/02/2023,871420,05/01/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],22/02/2023,M,MEJORÍA
+05/04/2023,871420,05/01/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],16/04/2023,M,MEJORÍA
+17/06/2023,871420,05/01/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],21/06/2023,M,MEJORÍA
+17/08/2023,871420,05/01/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],18/08/2023,M,MEJORÍA
+25/08/2023,871420,05/01/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],28/08/2023,M,MEJORÍA
+04/09/2023,871420,05/01/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],15/09/2023,M,MEJORÍA
+20/01/2023,871453,12/07/2018,ONCOLOGÍA  ,C479,"Tumor maligno de los nervios periféricos y del sistema nervioso autónomo, parte no especificada",25/01/2023,F,MEJORÍA
+12/02/2023,871453,12/07/2018,ONCOLOGÍA  ,C749,"Tumor maligno de la glándula suprarrenal, parte no especificada",16/02/2023,F,MEJORÍA
+06/04/2023,871453,12/07/2018,ONCOLOGÍA  ,C749,"Tumor maligno de la glándula suprarrenal, parte no especificada",10/04/2023,F,MEJORÍA
+29/04/2023,871453,12/07/2018,ONCOLOGÍA  ,C479,"Tumor maligno de los nervios periféricos y del sistema nervioso autónomo, parte no especificada",03/05/2023,F,MEJORÍA
+31/05/2023,871453,12/07/2018,ONCOLOGÍA  ,C479,"Tumor maligno de los nervios periféricos y del sistema nervioso autónomo, parte no especificada",05/06/2023,F,MEJORÍA
+28/06/2023,871464,19/07/2019,TRASPLANTE MED. OSEA,M088,Otras artritis juveniles,26/07/2023,M,MEJORÍA
+07/01/2023,871493,21/11/2011,ONCOLOGÍA  ,C400,Tumor maligno del omóplato y de los huesos largos del miembro superior,11/01/2023,F,MEJORÍA
+23/01/2023,871493,21/11/2011,ONCOLOGÍA  ,C400,Tumor maligno del omóplato y de los huesos largos del miembro superior,27/01/2023,F,MEJORÍA
+03/02/2023,871493,21/11/2011,ONCOLOGÍA  ,C414,"Tumor maligno de los huesos de la pelvis, sacro y cóccix",06/02/2023,F,MEJORÍA
+02/03/2023,871493,21/11/2011,ONCOLOGÍA  ,C400,Tumor maligno del omóplato y de los huesos largos del miembro superior,06/03/2023,F,MEJORÍA
+14/03/2023,871493,21/11/2011,ONCOLOGÍA  ,C400,Tumor maligno del omóplato y de los huesos largos del miembro superior,18/03/2023,F,MEJORÍA
+06/04/2023,871493,21/11/2011,ONCOLOGÍA  ,C400,Tumor maligno del omóplato y de los huesos largos del miembro superior,10/04/2023,F,MEJORÍA
+26/05/2023,871493,21/11/2011,ONCOLOGÍA  ,D480,Tumor de comportamiento incierto o desconocido del hueso y cartílago articular,29/05/2023,F,MEJORÍA
+06/07/2023,871493,21/11/2011,ONCOLOGÍA  ,C400,Tumor maligno del omóplato y de los huesos largos del miembro superior,10/07/2023,F,MEJORÍA
+21/08/2023,871493,21/11/2011,ONCOLOGÍA  ,C400,Tumor maligno del omóplato y de los huesos largos del miembro superior,24/08/2023,F,MEJORÍA
+15/09/2023,871493,21/11/2011,ONCOLOGÍA  ,C40,Tumor maligno de los huesos y de los cartílagos articulares de los miembros,19/09/2023,F,MEJORÍA
+25/09/2023,871493,21/11/2011,ONCOLOGÍA  ,C400,Tumor maligno del omóplato y de los huesos largos del miembro superior,29/09/2023,F,MEJORÍA
+23/10/2023,871493,21/11/2011,ONCOLOGÍA  ,C400,Tumor maligno del omóplato y de los huesos largos del miembro superior,26/10/2023,F,MEJORÍA
+03/11/2023,871493,21/11/2011,ONCOLOGÍA  ,C400,Tumor maligno del omóplato y de los huesos largos del miembro superior,06/11/2023,F,MEJORÍA
+02/12/2023,871493,21/11/2011,ONCOLOGÍA  ,C400,Tumor maligno del omóplato y de los huesos largos del miembro superior,05/12/2023,F,MEJORÍA
+18/12/2023,871493,21/11/2011,ONCOLOGÍA  ,C400,Tumor maligno del omóplato y de los huesos largos del miembro superior,22/12/2023,F,MEJORÍA
+22/01/2023,871512,11/07/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],26/01/2023,F,MEJORÍA
+05/02/2023,871512,11/07/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],08/02/2023,F,MEJORÍA
+19/02/2023,871512,11/07/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],22/02/2023,F,MEJORÍA
+05/03/2023,871512,11/07/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],13/03/2023,F,MEJORÍA
+09/05/2023,871512,11/07/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],19/05/2023,F,MEJORÍA
+22/01/2023,871614,21/08/2017,ONCOLOGÍA  ,C717,Tumor maligno del pedúnculo cerebral,26/01/2023,F,MEJORÍA
+22/02/2023,871614,21/08/2017,ONCOLOGÍA  ,C717,Tumor maligno del pedúnculo cerebral,25/02/2023,F,MEJORÍA
+27/03/2023,871614,21/08/2017,ONCOLOGÍA  ,C717,Tumor maligno del pedúnculo cerebral,30/03/2023,F,MEJORÍA
+07/04/2023,871614,21/08/2017,ONCOLOGÍA  ,K521,Colitis y gastroenteritis tóxicas,18/04/2023,F,MEJORÍA
+23/04/2023,871614,21/08/2017,ONCOLOGÍA  ,C729,"Tumor maligno del sistema nervioso central, sin otra especificación",26/04/2023,F,MEJORÍA
+08/05/2023,871614,21/08/2017,ONCOLOGÍA  ,D53,Otras anemias nutricionales,16/05/2023,F,MEJORÍA
+22/05/2023,871614,21/08/2017,ONCOLOGÍA  ,C717,Tumor maligno del pedúnculo cerebral,25/05/2023,F,MEJORÍA
+23/06/2023,871614,21/08/2017,ONCOLOGÍA  ,C717,Tumor maligno del pedúnculo cerebral,27/06/2023,F,MEJORÍA
+03/08/2023,871614,21/08/2017,ONCOLOGÍA  ,C717,Tumor maligno del pedúnculo cerebral,06/08/2023,F,MEJORÍA
+28/01/2023,871615,04/02/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],01/02/2023,F,MEJORÍA
+12/02/2023,871615,04/02/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],18/02/2023,F,MEJORÍA
+04/03/2023,871615,04/02/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],08/03/2023,F,MEJORÍA
+26/03/2023,871615,04/02/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],05/04/2023,F,MEJORÍA
+03/09/2023,871615,04/02/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],05/09/2023,F,MEJORÍA
+21/09/2023,871615,04/02/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],25/09/2023,F,MEJORÍA
+23/02/2023,871636,14/10/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],27/02/2023,F,MEJORÍA
+12/03/2023,871636,14/10/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],20/03/2023,F,MEJORÍA
+01/04/2023,871636,14/10/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],05/04/2023,F,MEJORÍA
+17/04/2023,871636,14/10/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],21/04/2023,F,MEJORÍA
+30/04/2023,871636,14/10/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],04/05/2023,F,MEJORÍA
+09/07/2023,871636,14/10/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],14/07/2023,F,MEJORÍA
+28/09/2023,871636,14/10/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],04/10/2023,F,MEJORÍA
+08/12/2023,871636,14/10/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],12/12/2023,F,MEJORÍA
+13/02/2023,871641,02/02/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],17/02/2023,F,MEJORÍA
+27/02/2023,871641,02/02/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],08/03/2023,F,MEJORÍA
+19/03/2023,871641,02/02/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],23/03/2023,F,MEJORÍA
+08/04/2023,871641,02/02/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],12/04/2023,F,MEJORÍA
+02/05/2023,871641,02/02/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],08/05/2023,F,MEJORÍA
+11/06/2023,871641,02/02/2012,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],15/06/2023,F,MEJORÍA
+11/08/2023,871641,02/02/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],07/09/2023,F,DEFUNCIÓN
+02/02/2023,871642,19/08/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],03/02/2023,M,MEJORÍA
+11/02/2023,871642,19/08/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],15/02/2023,M,MEJORÍA
+26/02/2023,871642,19/08/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],06/03/2023,M,MEJORÍA
+04/04/2023,871642,19/08/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],08/04/2023,M,MEJORÍA
+27/04/2023,871642,19/08/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],02/05/2023,M,MEJORÍA
+22/09/2023,871642,19/08/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],24/09/2023,M,MEJORÍA
+19/01/2023,871673,20/11/2009,ONCOLOGÍA  ,C729,"Tumor maligno del sistema nervioso central, sin otra especificación",04/02/2023,F,DEFUNCIÓN
+27/12/2022,871689,07/06/2014,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],07/01/2023,M,MEJORÍA
+23/01/2023,871689,07/06/2014,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],04/02/2023,M,MEJORÍA
+26/02/2023,871689,07/06/2014,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],12/03/2023,M,MEJORÍA
+25/03/2023,871689,07/06/2014,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],29/03/2023,M,MEJORÍA
+10/04/2023,871689,07/06/2014,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],14/04/2023,M,MEJORÍA
+05/05/2023,871689,07/06/2014,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],08/05/2023,M,MEJORÍA
+30/06/2023,871689,07/06/2014,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],05/07/2023,M,MEJORÍA
+01/09/2023,871689,07/06/2014,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],08/09/2023,M,MEJORÍA
+28/11/2023,871689,07/06/2014,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],06/12/2023,M,MEJORÍA
+01/01/2023,871704,08/07/2012,ONCOLOGÍA  ,I629,"Hemorragia intracraneal (no traumática), no especificada",05/01/2023,M,DEFUNCIÓN
+02/01/2023,871708,11/08/2022,ONCOLOGÍA  ,D688,Otros defectos especificados de la coagulación,11/01/2023,M,MEJORÍA
+13/02/2023,871713,12/05/2011,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,22/02/2023,F,DEFUNCIÓN
+18/03/2023,871726,26/10/2019,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,15/04/2023,F,MEJORÍA
+19/05/2023,871726,26/10/2019,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,24/06/2023,F,MEJORÍA
+12/07/2023,871726,26/10/2019,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,15/07/2023,F,MEJORÍA
+09/08/2023,871726,26/10/2019,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,12/08/2023,F,MEJORÍA
+06/09/2023,871726,26/10/2019,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,09/09/2023,F,MEJORÍA
+12/10/2023,871726,26/10/2019,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,16/10/2023,F,MEJORÍA
+12/11/2023,871726,26/10/2019,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,15/11/2023,F,MEJORÍA
+19/12/2023,871726,26/10/2019,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,22/12/2023,F,MEJORÍA
+07/01/2023,871728,01/02/2015,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],20/01/2023,F,MEJORÍA
+27/02/2023,871728,01/02/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],03/03/2023,F,MEJORÍA
+18/03/2023,871728,01/02/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],21/03/2023,F,MEJORÍA
+26/03/2023,871728,01/02/2015,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],29/03/2023,F,MEJORÍA
+02/04/2023,871728,01/02/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],05/04/2023,F,MEJORÍA
+13/04/2023,871728,01/02/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],02/05/2023,F,MEJORÍA
+20/05/2023,871728,01/02/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],09/06/2023,F,MEJORÍA
+22/07/2023,871728,01/02/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],27/07/2023,F,MEJORÍA
+03/09/2023,871728,01/02/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],08/09/2023,F,MEJORÍA
+16/10/2023,871728,01/02/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],26/10/2023,F,MEJORÍA
+08/11/2023,871728,01/02/2015,ONCOLOGÍA  ,A084,"Infección intestinal viral, sin otra especificación",09/11/2023,F,MEJORÍA
+20/12/2023,871728,01/02/2015,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],23/12/2023,F,MEJORÍA
+12/02/2023,871740,29/08/2015,ONCOLOGÍA  ,C717,Tumor maligno del pedúnculo cerebral,20/02/2023,F,MEJORÍA
+05/03/2023,871740,29/08/2015,ONCOLOGÍA  ,C717,Tumor maligno del pedúnculo cerebral,13/04/2023,F,DEFUNCIÓN
+09/01/2023,871741,10/08/2013,ONCOLOGÍA  ,C719,"Tumor maligno del encéfalo, parte no especificada",17/02/2023,M,MEJORÍA
+24/02/2023,871741,10/08/2013,ONCOLOGÍA  ,C729,"Tumor maligno del sistema nervioso central, sin otra especificación",27/02/2023,M,MEJORÍA
+07/03/2023,871741,10/08/2013,HEMATOLOGÍA           ,C719,"Tumor maligno del encéfalo, parte no especificada",11/03/2023,M,MEJORÍA
+28/03/2023,871741,10/08/2013,ONCOLOGÍA  ,C719,"Tumor maligno del encéfalo, parte no especificada",31/03/2023,M,MEJORÍA
+10/05/2023,871741,10/08/2013,ONCOLOGÍA  ,C719,"Tumor maligno del encéfalo, parte no especificada",13/05/2023,M,MEJORÍA
+03/08/2023,871741,10/08/2013,ONCOLOGÍA  ,C719,"Tumor maligno del encéfalo, parte no especificada",05/08/2023,M,MEJORÍA
+14/08/2023,871741,10/08/2013,ONCOLOGÍA  ,C719,"Tumor maligno del encéfalo, parte no especificada",23/08/2023,M,MEJORÍA
+22/09/2023,871741,10/08/2013,ONCOLOGÍA  ,C719,"Tumor maligno del encéfalo, parte no especificada",30/09/2023,M,MEJORÍA
+05/10/2023,871741,10/08/2013,ONCOLOGÍA  ,C719,"Tumor maligno del encéfalo, parte no especificada",08/10/2023,M,MEJORÍA
+23/02/2023,871747,09/12/2021,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,06/03/2023,F,MEJORÍA
+27/03/2023,871747,09/12/2021,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,02/04/2023,F,MEJORÍA
+11/04/2023,871747,09/12/2021,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,22/04/2023,F,MEJORÍA
+04/05/2023,871747,09/12/2021,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,07/05/2023,F,MEJORÍA
+13/05/2023,871747,09/12/2021,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,20/05/2023,F,MEJORÍA
+22/05/2023,871747,09/12/2021,ONCOLOGÍA  ,C729,"Tumor maligno del sistema nervioso central, sin otra especificación",27/05/2023,F,MEJORÍA
+05/06/2023,871747,09/12/2021,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,08/06/2023,F,MEJORÍA
+15/06/2023,871747,09/12/2021,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,22/06/2023,F,MEJORÍA
+08/07/2023,871747,09/12/2021,ONCOLOGÍA  ,C729,"Tumor maligno del sistema nervioso central, sin otra especificación",11/07/2023,F,MEJORÍA
+21/07/2023,871747,09/12/2021,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,27/07/2023,F,MEJORÍA
+14/08/2023,871747,09/12/2021,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,17/08/2023,F,MEJORÍA
+23/08/2023,871747,09/12/2021,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,04/09/2023,F,MEJORÍA
+16/09/2023,871747,09/12/2021,ONCOLOGÍA  ,C719,"Tumor maligno del encéfalo, parte no especificada",21/09/2023,F,MEJORÍA
+27/09/2023,871747,09/12/2021,ONCOLOGÍA  ,C72,"Tumor maligno de la médula espinal, de los nervios craneales y de otras partes del sistema nervioso central",02/10/2023,F,MEJORÍA
+04/10/2023,871747,09/12/2021,HEMATOLOGÍA           ,C716,Tumor maligno del cerebelo,24/10/2023,F,MEJORÍA
+07/11/2023,871747,09/12/2021,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,16/11/2023,F,MEJORÍA
+22/11/2023,871747,09/12/2021,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,27/11/2023,F,MEJORÍA
+14/12/2023,871747,09/12/2021,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,30/12/2023,F,MEJORÍA
+14/01/2023,871755,27/04/2021,ONCOLOGÍA  ,D692,Otras púrpuras no trombocitopénicas,17/01/2023,M,MEJORÍA
+17/01/2023,871763,18/06/2021,HEMATOLOGÍA           ,D693,Púrpura trombocitopénica idiopática,18/01/2023,M,MEJORÍA
+17/01/2023,871774,15/04/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],25/01/2023,M,MEJORÍA
+28/02/2023,871774,15/04/2019,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],03/03/2023,M,MEJORÍA
+23/03/2023,871774,15/04/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],29/03/2023,M,MEJORÍA
+14/04/2023,871774,15/04/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],19/04/2023,M,MEJORÍA
+30/04/2023,871774,15/04/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],05/05/2023,M,MEJORÍA
+18/05/2023,871774,15/04/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],22/05/2023,M,MEJORÍA
+24/05/2023,871774,15/04/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],06/06/2023,M,MEJORÍA
+15/06/2023,871774,15/04/2019,ONCOLOGÍA  ,R502,Fiebre inducida por drogas,21/06/2023,M,MEJORÍA
+29/08/2023,871774,15/04/2019,ONCOLOGÍA  ,A419,"Sepsis, no especificada",03/09/2023,M,MEJORÍA
+17/10/2023,871774,15/04/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],22/10/2023,M,MEJORÍA
+20/12/2023,871774,15/04/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],22/12/2023,M,MEJORÍA
+18/01/2023,871776,01/01/2017,ONCOLOGÍA  ,C729,"Tumor maligno del sistema nervioso central, sin otra especificación",27/01/2023,M,MEJORÍA
+31/07/2023,871776,01/01/2017,TRASPLANTE MED. OSEA,C720,Tumor maligno de la médula espinal,23/08/2023,M,MEJORÍA
+11/09/2023,871776,01/01/2017,TRASPLANTE MED. OSEA,Z948,Otros órganos y tejidos trasplantados,23/10/2023,M,MEJORÍA
+18/01/2023,871777,27/12/2016,ONCOLOGÍA  ,D693,Púrpura trombocitopénica idiopática,20/01/2023,M,MEJORÍA
+19/01/2023,871779,28/05/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],31/01/2023,F,MEJORÍA
+07/02/2023,871779,28/05/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],14/02/2023,F,MEJORÍA
+01/03/2023,871779,28/05/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],05/03/2023,F,MEJORÍA
+15/03/2023,871779,28/05/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],20/03/2023,F,MEJORÍA
+01/04/2023,871779,28/05/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],05/04/2023,F,MEJORÍA
+28/04/2023,871779,28/05/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],03/05/2023,F,MEJORÍA
+16/05/2023,871779,28/05/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],22/05/2023,F,MEJORÍA
+28/05/2023,871779,28/05/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],03/06/2023,F,MEJORÍA
+06/08/2023,871779,28/05/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],18/08/2023,F,MEJORÍA
+05/09/2023,871779,28/05/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],09/09/2023,F,MEJORÍA
+15/10/2023,871779,28/05/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],22/10/2023,F,MEJORÍA
+25/11/2023,871779,28/05/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],14/12/2023,F,MEJORÍA
+15/12/2023,871779,28/05/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],16/12/2023,F,MEJORÍA
+20/12/2023,871779,28/05/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],24/12/2023,F,MEJORÍA
+19/01/2023,871781,23/08/2020,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],31/01/2023,M,MEJORÍA
+03/02/2023,871781,23/08/2020,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],10/02/2023,M,MEJORÍA
+22/03/2023,871781,23/08/2020,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],27/03/2023,M,MEJORÍA
+07/04/2023,871781,23/08/2020,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],08/04/2023,M,MEJORÍA
+16/04/2023,871781,23/08/2020,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],20/04/2023,M,MEJORÍA
+02/05/2023,871781,23/08/2020,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],08/05/2023,M,MEJORÍA
+21/05/2023,871781,23/08/2020,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],25/05/2023,M,MEJORÍA
+06/06/2023,871781,23/08/2020,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],13/06/2023,M,MEJORÍA
+28/07/2023,871781,23/08/2020,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],05/08/2023,M,MEJORÍA
+01/09/2023,871781,23/08/2020,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],05/09/2023,M,MEJORÍA
+06/10/2023,871781,23/08/2020,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],14/10/2023,M,MEJORÍA
+12/11/2023,871781,23/08/2020,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],17/11/2023,M,MEJORÍA
+19/01/2023,871782,13/03/2015,HEMATOLOGÍA           ,C919,"Leucemia linfoide, sin otra especificación",02/02/2023,F,MEJORÍA
+17/02/2023,871782,13/03/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],22/02/2023,F,MEJORÍA
+10/03/2023,871782,13/03/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],29/03/2023,F,MEJORÍA
+11/04/2023,871782,13/03/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],14/04/2023,F,MEJORÍA
+03/05/2023,871782,13/03/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],09/05/2023,F,MEJORÍA
+28/05/2023,871782,13/03/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],01/06/2023,F,MEJORÍA
+23/06/2023,871782,13/03/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],27/06/2023,F,MEJORÍA
+07/07/2023,871782,13/03/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],10/07/2023,F,MEJORÍA
+21/09/2023,871782,13/03/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],29/09/2023,F,MEJORÍA
+25/10/2023,871782,13/03/2015,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],28/10/2023,F,MEJORÍA
+25/01/2023,871812,08/11/2022,ONCOLOGÍA  ,U071,COVID-19 virus identificado,23/02/2023,M,MEJORÍA
+12/04/2023,871812,08/11/2022,ONCOLOGÍA  ,D420,Tumor de comportamiento incierto o desconocido de las meninges cerebrales,14/04/2023,M,MEJORÍA
+24/01/2023,871814,03/11/2021,HEMATOLOGÍA           ,D66X,Deficiencia hereditaria del factor VIII,27/01/2023,M,MEJORÍA
+24/01/2023,871815,07/01/2013,ONCOLOGÍA  ,C751,Tumor maligno de la hipófisis,09/02/2023,F,MEJORÍA
+04/03/2023,871815,07/01/2013,ONCOLOGÍA  ,C751,Tumor maligno de la hipófisis,07/03/2023,F,MEJORÍA
+05/05/2023,871815,07/01/2013,ONCOLOGÍA  ,C751,Tumor maligno de la hipófisis,08/05/2023,F,MEJORÍA
+21/05/2023,871815,07/01/2013,ONCOLOGÍA  ,C751,Tumor maligno de la hipófisis,25/05/2023,F,MEJORÍA
+13/07/2023,871815,07/01/2013,ONCOLOGÍA  ,C751,Tumor maligno de la hipófisis,15/07/2023,F,MEJORÍA
+04/08/2023,871815,07/01/2013,ONCOLOGÍA  ,C751,Tumor maligno de la hipófisis,05/08/2023,F,MEJORÍA
+24/01/2023,871816,11/01/2014,ONCOLOGÍA  ,C911,Leucemia linfocítica crónica de célula tipo B,06/02/2023,M,MEJORÍA
+07/03/2023,871816,11/01/2014,ONCOLOGÍA  ,C835,Linfoma linfoblástico (difuso),10/03/2023,M,MEJORÍA
+12/03/2023,871816,11/01/2014,ONCOLOGÍA  ,C835,Linfoma linfoblástico (difuso),20/03/2023,M,MEJORÍA
+11/04/2023,871816,11/01/2014,ONCOLOGÍA  ,C835,Linfoma linfoblástico (difuso),17/04/2023,M,MEJORÍA
+27/04/2023,871816,11/01/2014,ONCOLOGÍA  ,C835,Linfoma linfoblástico (difuso),02/05/2023,M,MEJORÍA
+07/05/2023,871816,11/01/2014,ONCOLOGÍA  ,C835,Linfoma linfoblástico (difuso),12/05/2023,M,MEJORÍA
+02/07/2023,871816,11/01/2014,ONCOLOGÍA  ,C835,Linfoma linfoblástico (difuso),07/07/2023,M,MEJORÍA
+10/07/2023,871816,11/01/2014,ONCOLOGÍA  ,C835,Linfoma linfoblástico (difuso),16/07/2023,M,MEJORÍA
+27/07/2023,871816,11/01/2014,ONCOLOGÍA  ,C835,Linfoma linfoblástico (difuso),31/07/2023,M,MEJORÍA
+15/09/2023,871816,11/01/2014,ONCOLOGÍA  ,C835,Linfoma linfoblástico (difuso),22/09/2023,M,MEJORÍA
+06/10/2023,871816,11/01/2014,ONCOLOGÍA  ,C835,Linfoma linfoblástico (difuso),09/10/2023,M,MEJORÍA
+16/10/2023,871816,11/01/2014,ONCOLOGÍA  ,C835,Linfoma linfoblástico (difuso),19/10/2023,M,MEJORÍA
+21/11/2023,871816,11/01/2014,HEMATOLOGÍA           ,C835,Linfoma linfoblástico (difuso),05/12/2023,M,MEJORÍA
+11/12/2023,871816,11/01/2014,ONCOLOGÍA  ,C835,Linfoma linfoblástico (difuso),20/12/2023,M,MEJORÍA
+25/01/2023,871818,22/12/2021,ONCOLOGÍA  ,D694,Otras trombocitopenias primarias,26/01/2023,F,MEJORÍA
+27/01/2023,871826,03/01/2017,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],08/02/2023,F,MEJORÍA
+18/02/2023,871826,03/01/2017,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],27/02/2023,F,MEJORÍA
+28/03/2023,871826,03/01/2017,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],03/04/2023,F,MEJORÍA
+04/04/2023,871826,03/01/2017,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],17/04/2023,F,MEJORÍA
+29/04/2023,871826,03/01/2017,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],02/05/2023,F,MEJORÍA
+14/05/2023,871826,03/01/2017,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],18/05/2023,F,MEJORÍA
+08/09/2023,871826,03/01/2017,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],19/09/2023,F,MEJORÍA
+10/10/2023,871826,03/01/2017,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],12/10/2023,F,MEJORÍA
+29/01/2023,871839,30/01/2012,ONCOLOGÍA  ,D619,"Anemia aplástica, sin otra especificación",25/03/2023,F,DEFUNCIÓN
+31/01/2023,871853,28/10/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],03/02/2023,F,MEJORÍA
+12/04/2023,871853,28/10/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],17/04/2023,F,MEJORÍA
+26/04/2023,871853,28/10/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],01/05/2023,F,MEJORÍA
+11/05/2023,871853,28/10/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],15/05/2023,F,MEJORÍA
+26/05/2023,871853,28/10/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],30/05/2023,F,MEJORÍA
+23/06/2023,871853,28/10/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],29/06/2023,F,MEJORÍA
+30/10/2023,871853,28/10/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],02/11/2023,F,MEJORÍA
+10/11/2023,871853,28/10/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],19/11/2023,F,MEJORÍA
+14/02/2023,871857,26/03/2019,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],20/02/2023,F,MEJORÍA
+23/02/2023,871857,26/03/2019,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],16/03/2023,F,MEJORÍA
+29/03/2023,871857,26/03/2019,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],01/04/2023,F,MEJORÍA
+13/04/2023,871857,26/03/2019,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],19/04/2023,F,MEJORÍA
+22/05/2023,871857,26/03/2019,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],28/05/2023,F,MEJORÍA
+31/05/2023,871857,26/03/2019,HEMATOLOGÍA           ,C920,Leucemia mieloblástica aguda [LMA],07/06/2023,F,MEJORÍA
+12/06/2023,871857,26/03/2019,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],20/06/2023,F,MEJORÍA
+02/07/2023,871857,26/03/2019,TRASPLANTE MED. OSEA,Z948,Otros órganos y tejidos trasplantados,18/08/2023,F,MEJORÍA
+01/02/2023,871861,23/04/2020,ONCOLOGÍA  ,D693,Púrpura trombocitopénica idiopática,08/02/2023,F,MEJORÍA
+25/02/2023,871861,23/04/2020,ONCOLOGÍA  ,D693,Púrpura trombocitopénica idiopática,27/02/2023,F,MEJORÍA
+29/03/2023,871861,23/04/2020,ONCOLOGÍA  ,D693,Púrpura trombocitopénica idiopática,31/03/2023,F,MEJORÍA
+16/05/2023,871861,23/04/2020,ONCOLOGÍA  ,D693,Púrpura trombocitopénica idiopática,20/05/2023,F,MEJORÍA
+02/02/2023,871868,08/11/2010,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],14/02/2023,M,MEJORÍA
+22/03/2023,871868,08/11/2010,ONCOLOGÍA  ,Z512,Otra quimioterapia,27/03/2023,M,MEJORÍA
+29/03/2023,871868,08/11/2010,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],05/04/2023,M,MEJORÍA
+15/04/2023,871868,08/11/2010,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],19/04/2023,M,MEJORÍA
+29/04/2023,871868,08/11/2010,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],03/05/2023,M,MEJORÍA
+14/05/2023,871868,08/11/2010,ONCOLOGÍA  ,Z762,Consulta para atención y supervisión de la salud de otros niños o lactantes sanos,18/05/2023,M,MEJORÍA
+19/07/2023,871868,08/11/2010,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],07/08/2023,M,MEJORÍA
+30/08/2023,871868,08/11/2010,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],05/09/2023,M,MEJORÍA
+16/10/2023,871868,08/11/2010,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],22/10/2023,M,MEJORÍA
+04/11/2023,871868,08/11/2010,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],08/11/2023,M,MEJORÍA
+07/02/2023,871891,13/11/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],18/02/2023,M,MEJORÍA
+12/03/2023,871891,13/11/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],12/03/2023,M,MEJORÍA
+03/04/2023,871891,13/11/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],07/04/2023,M,MEJORÍA
+20/04/2023,871891,13/11/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],24/04/2023,M,MEJORÍA
+06/05/2023,871891,13/11/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],21/05/2023,M,MEJORÍA
+08/06/2023,871891,13/11/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],12/06/2023,M,MEJORÍA
+22/07/2023,871891,13/11/2015,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],09/08/2023,M,MEJORÍA
+19/08/2023,871891,13/11/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],29/08/2023,M,MEJORÍA
+10/10/2023,871891,13/11/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],17/10/2023,M,MEJORÍA
+08/02/2023,871898,04/08/2009,ONCOLOGÍA  ,C383,"Tumor maligno del mediastino, parte no especificada",17/02/2023,M,MEJORÍA
+10/03/2023,871898,04/08/2009,ONCOLOGÍA  ,C383,"Tumor maligno del mediastino, parte no especificada",15/03/2023,M,MEJORÍA
+10/04/2023,871898,04/08/2009,ONCOLOGÍA  ,C383,"Tumor maligno del mediastino, parte no especificada",15/04/2023,M,MEJORÍA
+29/07/2023,871898,04/08/2009,ONCOLOGÍA  ,C383,"Tumor maligno del mediastino, parte no especificada",03/08/2023,M,MEJORÍA
+01/09/2023,871898,04/08/2009,ONCOLOGÍA  ,C383,"Tumor maligno del mediastino, parte no especificada",06/09/2023,M,MEJORÍA
+30/06/2023,871905,07/09/2012,ONCOLOGÍA  ,C56X,Tumor maligno del ovario,14/07/2023,F,MEJORÍA
+04/09/2023,871905,07/09/2012,ONCOLOGÍA  ,C56X,Tumor maligno del ovario,13/09/2023,F,MEJORÍA
+16/09/2023,871905,07/09/2012,ONCOLOGÍA  ,D70X,Agranulocitosis,26/09/2023,F,MEJORÍA
+08/10/2023,871905,07/09/2012,ONCOLOGÍA  ,C56X,Tumor maligno del ovario,24/10/2023,F,MEJORÍA
+24/11/2023,871905,07/09/2012,ONCOLOGÍA  ,C56X,Tumor maligno del ovario,07/12/2023,F,MEJORÍA
+10/12/2023,871905,07/09/2012,ONCOLOGÍA  ,C56X,Tumor maligno del ovario,06/12/2023,F,DEFUNCIÓN
+07/04/2023,871928,10/03/2019,ONCOLOGÍA  ,C64X,"Tumor maligno del riñón, excepto de la pelvis renal",09/04/2023,M,MEJORÍA
+04/05/2023,871928,10/03/2019,ONCOLOGÍA  ,C64X,"Tumor maligno del riñón, excepto de la pelvis renal",06/05/2023,M,MEJORÍA
+08/06/2023,871935,05/11/2012,ONCOLOGÍA  ,Q821,Xeroderma pigmentoso,13/06/2023,F,MEJORÍA
+21/06/2023,871935,05/11/2012,ONCOLOGÍA  ,C432,Melanoma maligno de la oreja y del conducto auditivo externo,22/06/2023,F,MEJORÍA
+11/07/2023,871935,05/11/2012,ONCOLOGÍA  ,Q821,Xeroderma pigmentoso,30/07/2023,F,MEJORÍA
+14/02/2023,871937,28/08/2012,ONCOLOGÍA  ,C837,Linfoma de Burkitt,02/03/2023,F,MEJORÍA
+06/03/2023,871937,28/08/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],11/03/2023,F,MEJORÍA
+28/03/2023,871937,28/08/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],02/04/2023,F,MEJORÍA
+03/05/2023,871937,28/08/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],09/05/2023,F,MEJORÍA
+14/05/2023,871937,28/08/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],29/05/2023,F,MEJORÍA
+28/06/2023,871937,28/08/2012,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],05/07/2023,F,MEJORÍA
+17/07/2023,871937,28/08/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],24/07/2023,F,MEJORÍA
+12/08/2023,871937,28/08/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],15/08/2023,F,MEJORÍA
+29/08/2023,871937,28/08/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],01/09/2023,F,MEJORÍA
+15/09/2023,871937,28/08/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],20/09/2023,F,MEJORÍA
+06/10/2023,871937,28/08/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],21/10/2023,F,MEJORÍA
+14/02/2023,871938,04/03/2009,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,02/03/2023,M,MEJORÍA
+05/03/2023,871938,04/03/2009,HEMATOLOGÍA           ,C402,Tumor maligno de los huesos largos del miembro inferior,16/03/2023,M,MEJORÍA
+21/03/2023,871938,04/03/2009,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,25/03/2023,M,MEJORÍA
+02/04/2023,871938,04/03/2009,ONCOLOGÍA  ,K521,Colitis y gastroenteritis tóxicas,18/04/2023,M,MEJORÍA
+09/05/2023,871938,04/03/2009,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,13/05/2023,M,MEJORÍA
+21/05/2023,871938,04/03/2009,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,26/05/2023,M,MEJORÍA
+04/06/2023,871938,04/03/2009,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,08/06/2023,M,MEJORÍA
+13/07/2023,871938,04/03/2009,ONCOLOGÍA  ,C409,"Tumor maligno de los huesos y de los cartílagos articulares de los miembros, sin otra especificación",27/07/2023,M,MEJORÍA
+16/08/2023,871938,04/03/2009,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,19/08/2023,M,MEJORÍA
+07/09/2023,871938,04/03/2009,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,09/09/2023,M,MEJORÍA
+02/10/2023,871938,04/03/2009,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,04/10/2023,M,MEJORÍA
+23/10/2023,871938,04/03/2009,ONCOLOGÍA  ,C409,"Tumor maligno de los huesos y de los cartílagos articulares de los miembros, sin otra especificación",25/10/2023,M,MEJORÍA
+15/11/2023,871938,04/03/2009,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,17/11/2023,M,MEJORÍA
+06/12/2023,871938,04/03/2009,ONCOLOGÍA  ,A419,"Sepsis, no especificada",08/12/2023,M,MEJORÍA
+27/12/2023,871938,04/03/2009,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,29/12/2023,M,MEJORÍA
+15/02/2023,871954,13/03/2019,ONCOLOGÍA  ,D693,Púrpura trombocitopénica idiopática,18/02/2023,M,MEJORÍA
+15/02/2023,871956,05/06/2014,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,02/03/2023,F,MEJORÍA
+09/03/2023,871956,05/06/2014,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,30/03/2023,F,MEJORÍA
+08/04/2023,871956,05/06/2014,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,13/04/2023,F,MEJORÍA
+11/05/2023,871956,05/06/2014,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,15/05/2023,F,MEJORÍA
+19/05/2023,871956,05/06/2014,HEMATOLOGÍA           ,C402,Tumor maligno de los huesos largos del miembro inferior,31/05/2023,F,MEJORÍA
+06/06/2023,871956,05/06/2014,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,09/06/2023,F,MEJORÍA
+27/06/2023,871956,05/06/2014,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,01/07/2023,F,MEJORÍA
+06/07/2023,871956,05/06/2014,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,10/07/2023,F,MEJORÍA
+21/07/2023,871956,05/06/2014,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,24/07/2023,F,MEJORÍA
+10/08/2023,871956,05/06/2014,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,15/08/2023,F,MEJORÍA
+18/08/2023,871956,05/06/2014,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,22/08/2023,F,MEJORÍA
+04/09/2023,871956,05/06/2014,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,07/09/2023,F,MEJORÍA
+26/09/2023,871956,05/06/2014,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,30/09/2023,F,MEJORÍA
+10/10/2023,871956,05/06/2014,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,14/10/2023,F,MEJORÍA
+29/10/2023,871956,05/06/2014,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,08/11/2023,F,MEJORÍA
+11/11/2023,871956,05/06/2014,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,15/11/2023,F,MEJORÍA
+25/11/2023,871956,05/06/2014,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,29/11/2023,F,MEJORÍA
+26/12/2023,871956,05/06/2014,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,30/12/2023,F,MEJORÍA
+16/02/2023,871957,15/09/2015,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],27/02/2023,F,MEJORÍA
+20/03/2023,871957,15/09/2015,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],26/03/2023,F,MEJORÍA
+01/04/2023,871957,15/09/2015,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],19/04/2023,F,MEJORÍA
+28/04/2023,871957,15/09/2015,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],04/05/2023,F,MEJORÍA
+10/05/2023,871957,15/09/2015,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],30/05/2023,F,MEJORÍA
+12/06/2023,871957,15/09/2015,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],23/06/2023,F,MEJORÍA
+01/07/2023,871957,15/09/2015,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],06/07/2023,F,MEJORÍA
+16/08/2023,871957,15/09/2015,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],21/08/2023,F,MEJORÍA
+28/08/2023,871957,15/09/2015,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],18/09/2023,F,MEJORÍA
+23/09/2023,871957,15/09/2015,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],27/09/2023,F,MEJORÍA
+09/10/2023,871957,15/09/2015,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],25/10/2023,F,MEJORÍA
+06/11/2023,871957,15/09/2015,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],10/11/2023,F,MEJORÍA
+19/11/2023,871957,15/09/2015,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],29/11/2023,F,MEJORÍA
+17/02/2023,871960,25/12/2019,ONCOLOGÍA  ,D721,Eosinofilia,02/03/2023,F,MEJORÍA
+20/02/2023,871969,26/11/2019,ONCOLOGÍA  ,C222,Hepatoblastoma,03/03/2023,F,MEJORÍA
+02/04/2023,871969,26/11/2019,ONCOLOGÍA  ,C222,Hepatoblastoma,05/04/2023,F,MEJORÍA
+19/04/2023,871969,26/11/2019,ONCOLOGÍA  ,C222,Hepatoblastoma,07/05/2023,F,MEJORÍA
+01/06/2023,871969,26/11/2019,ONCOLOGÍA  ,C222,Hepatoblastoma,08/06/2023,F,MEJORÍA
+03/07/2023,871969,26/11/2019,ONCOLOGÍA  ,C222,Hepatoblastoma,06/07/2023,F,MEJORÍA
+05/08/2023,871969,26/11/2019,ONCOLOGÍA  ,C222,Hepatoblastoma,08/08/2023,F,MEJORÍA
+20/02/2023,871972,24/09/2013,ONCOLOGÍA  ,C73X,Tumor maligno de la glándula tiroides,24/02/2023,F,MEJORÍA
+20/02/2023,871973,25/01/2021,ONCOLOGÍA  ,D899,"Trastorno que afecta al mecanismo de la inmunidad, no especificado",02/03/2023,F,MEJORÍA
+07/11/2023,871973,25/01/2021,ONCOLOGÍA  ,D475,Leucemia eosinofílica crónica [síndrome hipereosinofílico],14/11/2023,F,MEJORÍA
+25/02/2023,871988,06/05/2014,ONCOLOGÍA  ,D610,Anemia aplástica constitucional,04/04/2023,M,DEFUNCIÓN
+26/02/2023,871995,30/12/2018,ONCOLOGÍA  ,D762,Síndrome hemofagocítico asociado a infección,11/03/2023,M,MEJORÍA
+01/03/2023,872009,31/03/2019,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],07/03/2023,F,MEJORÍA
+18/03/2023,872009,31/03/2019,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],24/03/2023,F,MEJORÍA
+26/04/2023,872009,31/03/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],02/05/2023,F,MEJORÍA
+18/05/2023,872009,31/03/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],22/05/2023,F,MEJORÍA
+03/06/2023,872009,31/03/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],07/06/2023,F,MEJORÍA
+17/06/2023,872009,31/03/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],21/06/2023,F,MEJORÍA
+30/11/2023,872009,31/03/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],11/12/2023,F,MEJORÍA
+01/03/2023,872016,25/11/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],14/03/2023,M,MEJORÍA
+25/04/2023,872016,25/11/2008,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],04/05/2023,M,MEJORÍA
+11/05/2023,872016,25/11/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],15/05/2023,M,MEJORÍA
+19/05/2023,872016,25/11/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],24/05/2023,M,MEJORÍA
+07/06/2023,872016,25/11/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],12/06/2023,M,MEJORÍA
+23/06/2023,872016,25/11/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],27/06/2023,M,MEJORÍA
+25/10/2023,872016,25/11/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],26/10/2023,M,MEJORÍA
+15/11/2023,872016,25/11/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],18/11/2023,M,MEJORÍA
+09/03/2023,872054,18/02/2021,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],15/03/2023,M,MEJORÍA
+30/03/2023,872054,18/02/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],11/04/2023,M,MEJORÍA
+14/04/2023,872054,18/02/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],19/04/2023,M,MEJORÍA
+23/04/2023,872054,18/02/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],04/05/2023,M,MEJORÍA
+24/05/2023,872054,18/02/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],08/06/2023,M,MEJORÍA
+15/06/2023,872054,18/02/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],19/06/2023,M,MEJORÍA
+30/06/2023,872054,18/02/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],03/07/2023,M,MEJORÍA
+14/07/2023,872054,18/02/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],17/07/2023,M,MEJORÍA
+19/12/2023,872054,18/02/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],24/12/2023,M,MEJORÍA
+23/03/2023,872107,03/10/2019,ONCOLOGÍA  ,J938,Otros neumotórax,18/04/2023,F,MEJORÍA
+08/05/2023,872107,03/10/2019,ONCOLOGÍA  ,C413,"Tumor maligno de la costilla, esternón y clavícula",12/05/2023,F,MEJORÍA
+02/08/2023,872107,03/10/2019,ONCOLOGÍA  ,C493,Tumor maligno del tejido conjuntivo y tejido blando del tórax,06/08/2023,F,MEJORÍA
+25/08/2023,872107,03/10/2019,ONCOLOGÍA  ,C493,Tumor maligno del tejido conjuntivo y tejido blando del tórax,29/08/2023,F,MEJORÍA
+21/09/2023,872107,03/10/2019,ONCOLOGÍA  ,C493,Tumor maligno del tejido conjuntivo y tejido blando del tórax,30/09/2023,F,MEJORÍA
+19/10/2023,872107,03/10/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],23/10/2023,F,MEJORÍA
+31/10/2023,872107,03/10/2019,HEMATOLOGÍA           ,C493,Tumor maligno del tejido conjuntivo y tejido blando del tórax,10/11/2023,F,MEJORÍA
+20/11/2023,872107,03/10/2019,ONCOLOGÍA  ,C493,Tumor maligno del tejido conjuntivo y tejido blando del tórax,22/11/2023,F,MEJORÍA
+13/12/2023,872107,03/10/2019,ONCOLOGÍA  ,C493,Tumor maligno del tejido conjuntivo y tejido blando del tórax,15/12/2023,F,MEJORÍA
+23/03/2023,872109,10/03/2016,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],04/04/2023,F,MEJORÍA
+01/06/2023,872109,10/03/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],05/06/2023,F,MEJORÍA
+07/06/2023,872109,10/03/2016,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],09/06/2023,F,MEJORÍA
+19/06/2023,872109,10/03/2016,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],23/06/2023,F,MEJORÍA
+04/07/2023,872109,10/03/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],10/07/2023,F,MEJORÍA
+23/07/2023,872109,10/03/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],27/07/2023,F,MEJORÍA
+03/08/2023,872109,10/03/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],09/08/2023,F,MEJORÍA
+17/08/2023,872109,10/03/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],01/09/2023,F,MEJORÍA
+08/05/2023,872129,12/10/2011,ONCOLOGÍA  ,C73X,Tumor maligno de la glándula tiroides,11/05/2023,F,MEJORÍA
+21/04/2023,872143,14/11/2007,ONCOLOGÍA  ,C56X,Tumor maligno del ovario,26/04/2023,F,MEJORÍA
+02/05/2023,872143,14/11/2007,ONCOLOGÍA  ,C56X,Tumor maligno del ovario,09/05/2023,F,MEJORÍA
+18/05/2023,872143,14/11/2007,ONCOLOGÍA  ,C56X,Tumor maligno del ovario,23/05/2023,F,MEJORÍA
+01/10/2023,872156,15/10/2017,ONCOLOGÍA  ,C713,Tumor maligno del lóbulo parietal,04/10/2023,F,MEJORÍA
+05/04/2023,872163,09/04/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],14/04/2023,M,MEJORÍA
+19/05/2023,872163,09/04/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],18/06/2023,M,MEJORÍA
+27/06/2023,872163,09/04/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],03/07/2023,M,MEJORÍA
+14/07/2023,872163,09/04/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],28/07/2023,M,MEJORÍA
+16/08/2023,872163,09/04/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],21/08/2023,M,MEJORÍA
+06/09/2023,872163,09/04/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],12/09/2023,M,MEJORÍA
+26/09/2023,872163,09/04/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],30/09/2023,M,MEJORÍA
+21/10/2023,872163,09/04/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],28/10/2023,M,MEJORÍA
+03/11/2023,872163,09/04/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],06/11/2023,M,MEJORÍA
+05/04/2023,872164,16/01/2018,ONCOLOGÍA  ,C852,Linfoma mediastinal de células B grandes (del timo),17/05/2023,F,MEJORÍA
+23/05/2023,872164,16/01/2018,ONCOLOGÍA  ,C852,Linfoma mediastinal de células B grandes (del timo),27/05/2023,F,MEJORÍA
+05/06/2023,872164,16/01/2018,ONCOLOGÍA  ,C857,Otros tipos especificados de linfoma no Hodgkin,12/06/2023,F,MEJORÍA
+23/07/2023,872164,16/01/2018,ONCOLOGÍA  ,C857,Otros tipos especificados de linfoma no Hodgkin,26/07/2023,F,MEJORÍA
+05/04/2023,872167,26/03/2019,HEMATOLOGÍA           ,D693,Púrpura trombocitopénica idiopática,13/04/2023,M,MEJORÍA
+06/04/2023,872170,25/07/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],14/04/2023,M,MEJORÍA
+10/07/2023,872170,25/07/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],28/07/2023,M,MEJORÍA
+22/08/2023,872170,25/07/2019,ONCOLOGÍA  ,J129,"Neumonía viral, no especificada",01/09/2023,M,MEJORÍA
+12/09/2023,872170,25/07/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],18/09/2023,M,MEJORÍA
+29/09/2023,872170,25/07/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],04/10/2023,M,MEJORÍA
+07/10/2023,872170,25/07/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],18/10/2023,M,MEJORÍA
+09/04/2023,872179,25/03/2017,ONCOLOGÍA  ,D610,Anemia aplástica constitucional,12/05/2023,M,MEJORÍA
+21/08/2023,872179,25/03/2017,ONCOLOGÍA  ,D613,Anemia aplástica idiopática,22/08/2023,M,MEJORÍA
+11/10/2023,872179,25/03/2017,ONCOLOGÍA  ,D613,Anemia aplástica idiopática,18/10/2023,M,MEJORÍA
+11/04/2023,872183,24/05/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],19/04/2023,M,MEJORÍA
+12/05/2023,872183,24/05/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],16/05/2023,M,MEJORÍA
+14/06/2023,872183,24/05/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],19/06/2023,M,MEJORÍA
+30/06/2023,872183,24/05/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],03/07/2023,M,MEJORÍA
+14/07/2023,872183,24/05/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],18/07/2023,M,MEJORÍA
+17/09/2023,872183,24/05/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],21/09/2023,M,MEJORÍA
+07/10/2023,872183,24/05/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],11/10/2023,M,MEJORÍA
+21/10/2023,872183,24/05/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],25/10/2023,M,MEJORÍA
+04/11/2023,872183,24/05/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],07/11/2023,M,MEJORÍA
+11/04/2023,872184,04/12/2011,ONCOLOGÍA  ,R590,Adenomegalia localizada,22/04/2023,M,MEJORÍA
+16/04/2023,872196,01/08/2016,ONCOLOGÍA  ,C240,Tumor maligno de las vías biliares extrahepáticas,29/05/2023,M,MEJORÍA
+06/11/2023,872196,01/08/2016,ONCOLOGÍA  ,C23X,Tumor maligno de la vesícula biliar,09/11/2023,M,MEJORÍA
+19/12/2023,872196,01/08/2016,ONCOLOGÍA  ,C240,Tumor maligno de las vías biliares extrahepáticas,29/12/2023,M,MEJORÍA
+17/04/2023,872204,14/07/2007,ONCOLOGÍA  ,D093,Carcinoma in situ de la glándula tiroides y de otras glándulas endocrinas,20/04/2023,M,MEJORÍA
+19/04/2023,872210,30/03/2012,HEMATOLOGÍA           ,D693,Púrpura trombocitopénica idiopática,11/05/2023,F,MEJORÍA
+19/04/2023,872213,04/09/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],29/04/2023,M,MEJORÍA
+11/07/2023,872213,04/09/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],17/07/2023,M,MEJORÍA
+27/09/2023,872213,04/09/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],18/10/2023,M,MEJORÍA
+20/10/2023,872213,04/09/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],28/10/2023,M,MEJORÍA
+24/11/2023,872213,04/09/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],28/11/2023,M,MEJORÍA
+15/12/2023,872213,04/09/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],19/12/2023,M,MEJORÍA
+26/12/2023,872213,04/09/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],31/12/2023,M,MEJORÍA
+07/05/2023,872217,13/12/2017,ONCOLOGÍA  ,D608,"Otras aplasias adquiridas, exclusivas de la serie roja",12/05/2023,F,MEJORÍA
+17/05/2023,872217,13/12/2017,ONCOLOGÍA  ,D608,"Otras aplasias adquiridas, exclusivas de la serie roja",25/05/2023,F,MEJORÍA
+30/05/2023,872217,13/12/2017,ONCOLOGÍA  ,D618,Otras anemias aplásticas especificadas,29/06/2023,F,DEFUNCIÓN
+22/04/2023,872221,29/07/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],10/05/2023,M,MEJORÍA
+25/05/2023,872221,29/07/2008,ONCOLOGÍA  ,C917,Otras leucemias linfoides,31/05/2023,M,MEJORÍA
+06/06/2023,872221,29/07/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],03/07/2023,M,MEJORÍA
+16/07/2023,872221,29/07/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],20/07/2023,M,MEJORÍA
+31/07/2023,872221,29/07/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],04/08/2023,M,MEJORÍA
+13/08/2023,872221,29/07/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],29/08/2023,M,MEJORÍA
+09/09/2023,872221,29/07/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],15/09/2023,M,MEJORÍA
+21/09/2023,872221,29/07/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],09/10/2023,M,MEJORÍA
+22/12/2023,872221,29/07/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],27/12/2023,M,MEJORÍA
+22/04/2023,872225,16/02/2016,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],06/05/2023,F,MEJORÍA
+13/06/2023,872225,16/02/2016,ONCOLOGÍA  ,A419,"Sepsis, no especificada",03/07/2023,F,MEJORÍA
+15/07/2023,872225,16/02/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],19/07/2023,F,MEJORÍA
+28/07/2023,872225,16/02/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],31/07/2023,F,MEJORÍA
+20/08/2023,872225,16/02/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],24/08/2023,F,MEJORÍA
+23/04/2023,872230,08/05/2007,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],13/05/2023,M,DEFUNCIÓN
+25/04/2023,872234,26/05/2021,ONCOLOGÍA  ,D410,Tumor de comportamiento incierto o desconocido del riñón,03/05/2023,M,MEJORÍA
+26/04/2023,872239,03/05/2022,ONCOLOGÍA  ,D694,Otras trombocitopenias primarias,28/04/2023,M,MEJORÍA
+03/05/2023,872261,24/08/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],12/05/2023,M,MEJORÍA
+12/07/2023,872261,24/08/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],16/07/2023,M,MEJORÍA
+27/07/2023,872261,24/08/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],31/07/2023,M,MEJORÍA
+11/08/2023,872261,24/08/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],15/08/2023,M,MEJORÍA
+04/05/2023,872262,18/06/2017,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],17/05/2023,M,MEJORÍA
+20/06/2023,872262,18/06/2017,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],28/06/2023,M,MEJORÍA
+09/07/2023,872262,18/06/2017,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],13/07/2023,M,MEJORÍA
+29/07/2023,872262,18/06/2017,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],01/08/2023,M,MEJORÍA
+19/08/2023,872262,18/06/2017,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],23/08/2023,M,MEJORÍA
+07/09/2023,872262,18/06/2017,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],14/09/2023,M,MEJORÍA
+21/09/2023,872262,18/06/2017,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],04/10/2023,M,MEJORÍA
+05/12/2023,872262,18/06/2017,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],11/12/2023,M,MEJORÍA
+18/12/2023,872262,18/06/2017,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],22/12/2023,M,MEJORÍA
+28/12/2023,872262,18/06/2017,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],29/12/2023,M,MEJORÍA
+06/05/2023,872272,17/05/2014,HEMATOLOGÍA           ,Z038,Observación por sospecha de otras enfermedades y afecciones,10/05/2023,F,MEJORÍA
+14/05/2023,872272,17/05/2014,HEMATOLOGÍA           ,D610,Anemia aplástica constitucional,29/06/2023,F,MEJORÍA
+13/11/2023,872272,17/05/2014,HEMATOLOGÍA           ,D618,Otras anemias aplásticas especificadas,16/11/2023,F,MEJORÍA
+30/07/2023,872291,21/10/2021,ONCOLOGÍA  ,C64X,"Tumor maligno del riñón, excepto de la pelvis renal",04/08/2023,F,MEJORÍA
+13/10/2023,872291,21/10/2021,ONCOLOGÍA  ,C64X,"Tumor maligno del riñón, excepto de la pelvis renal",26/10/2023,F,MEJORÍA
+10/05/2023,872292,29/03/2023,ONCOLOGÍA  ,P592,Ictericia neonatal debida a otra lesión hepática especificada o no,16/05/2023,M,MEJORÍA
+11/08/2023,872295,10/04/2019,ONCOLOGÍA  ,C64X,"Tumor maligno del riñón, excepto de la pelvis renal",18/08/2023,F,MEJORÍA
+03/08/2023,872296,23/02/2022,ONCOLOGÍA  ,C64X,"Tumor maligno del riñón, excepto de la pelvis renal",07/08/2023,M,DEFUNCIÓN
+13/05/2023,872306,25/11/2019,HEMATOLOGÍA           ,C966,Histiocitosis de células de Langerhans unifocal,11/06/2023,F,MEJORÍA
+16/05/2023,872329,12/09/2017,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],09/06/2023,F,DEFUNCIÓN
+17/05/2023,872332,01/04/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],26/05/2023,M,MEJORÍA
+23/07/2023,872332,01/04/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],27/07/2023,M,MEJORÍA
+08/08/2023,872332,01/04/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],12/08/2023,M,MEJORÍA
+23/08/2023,872332,01/04/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],28/08/2023,M,MEJORÍA
+08/09/2023,872332,01/04/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],12/09/2023,M,MEJORÍA
+18/11/2023,872332,01/04/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],30/11/2023,M,MEJORÍA
+18/05/2023,872335,26/12/2020,ONCOLOGÍA  ,C767,Tumor maligno de otros sitios mal definidos,12/06/2023,F,MEJORÍA
+16/06/2023,872335,26/12/2020,ONCOLOGÍA  ,C749,"Tumor maligno de la glándula suprarrenal, parte no especificada",27/06/2023,F,MEJORÍA
+30/06/2023,872335,26/12/2020,ONCOLOGÍA  ,C749,"Tumor maligno de la glándula suprarrenal, parte no especificada",05/07/2023,F,MEJORÍA
+01/08/2023,872335,26/12/2020,ONCOLOGÍA  ,C749,"Tumor maligno de la glándula suprarrenal, parte no especificada",05/08/2023,F,MEJORÍA
+26/08/2023,872335,26/12/2020,ONCOLOGÍA  ,C749,"Tumor maligno de la glándula suprarrenal, parte no especificada",31/08/2023,F,MEJORÍA
+29/09/2023,872335,26/12/2020,ONCOLOGÍA  ,C749,"Tumor maligno de la glándula suprarrenal, parte no especificada",03/10/2023,F,MEJORÍA
+10/12/2023,872335,26/12/2020,ONCOLOGÍA  ,C749,"Tumor maligno de la glándula suprarrenal, parte no especificada",15/12/2023,F,MEJORÍA
+18/05/2023,872336,13/01/2015,HEMATOLOGÍA           ,D591,Otras anemias hemolíticas autoinmunes,23/05/2023,F,MEJORÍA
+19/05/2023,872340,11/07/2019,ONCOLOGÍA  ,C222,Hepatoblastoma,20/06/2023,F,MEJORÍA
+12/07/2023,872340,11/07/2019,ONCOLOGÍA  ,C222,Hepatoblastoma,15/07/2023,F,MEJORÍA
+16/07/2023,872340,11/07/2019,ONCOLOGÍA  ,C222,Hepatoblastoma,23/07/2023,F,MEJORÍA
+11/08/2023,872340,11/07/2019,ONCOLOGÍA  ,C222,Hepatoblastoma,18/08/2023,F,MEJORÍA
+21/08/2023,872340,11/07/2019,ONCOLOGÍA  ,C222,Hepatoblastoma,02/09/2023,F,MEJORÍA
+04/10/2023,872340,11/07/2019,ONCOLOGÍA  ,C222,Hepatoblastoma,07/10/2023,F,MEJORÍA
+05/06/2023,872352,13/03/2018,ONCOLOGÍA  ,C64X,"Tumor maligno del riñón, excepto de la pelvis renal",21/06/2023,M,MEJORÍA
+23/05/2023,872357,04/06/2020,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],30/05/2023,M,MEJORÍA
+14/06/2023,872357,04/06/2020,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],21/06/2023,M,MEJORÍA
+24/07/2023,872357,04/06/2020,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],07/08/2023,M,MEJORÍA
+10/08/2023,872357,04/06/2020,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],24/08/2023,M,MEJORÍA
+29/08/2023,872357,04/06/2020,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],03/09/2023,M,MEJORÍA
+15/09/2023,872357,04/06/2020,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],20/09/2023,M,MEJORÍA
+11/10/2023,872357,04/06/2020,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],16/10/2023,M,MEJORÍA
+28/10/2023,872357,04/06/2020,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],31/10/2023,M,MEJORÍA
+19/06/2023,872359,07/01/2009,ONCOLOGÍA  ,C73X,Tumor maligno de la glándula tiroides,22/06/2023,M,MEJORÍA
+27/05/2023,872376,24/12/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],09/06/2023,M,MEJORÍA
+12/07/2023,872376,24/12/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],22/07/2023,M,MEJORÍA
+11/08/2023,872376,24/12/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],15/08/2023,M,MEJORÍA
+27/08/2023,872376,24/12/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],30/08/2023,M,MEJORÍA
+10/09/2023,872376,24/12/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],14/09/2023,M,MEJORÍA
+22/09/2023,872376,24/12/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],26/09/2023,M,MEJORÍA
+06/11/2023,872376,24/12/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],08/11/2023,M,MEJORÍA
+25/11/2023,872376,24/12/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],05/12/2023,M,MEJORÍA
+27/05/2023,872377,09/07/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],15/06/2023,M,MEJORÍA
+02/07/2023,872377,09/07/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],08/07/2023,M,MEJORÍA
+24/07/2023,872377,09/07/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],01/08/2023,M,MEJORÍA
+23/08/2023,872377,09/07/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],01/09/2023,M,MEJORÍA
+17/09/2023,872377,09/07/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],22/09/2023,M,MEJORÍA
+10/10/2023,872377,09/07/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],14/10/2023,M,MEJORÍA
+30/05/2023,872388,16/12/2015,ONCOLOGÍA  ,C224,Otros sarcomas del hígado,13/07/2023,M,MEJORÍA
+02/08/2023,872388,16/12/2015,ONCOLOGÍA  ,D377,Tumor de comportamiento incierto o desconocido de otros órganos digestivos especificados,09/08/2023,M,MEJORÍA
+21/09/2023,872388,16/12/2015,ONCOLOGÍA  ,C229,"Tumor maligno del hígado, no especificado",23/09/2023,M,MEJORÍA
+25/10/2023,872388,16/12/2015,ONCOLOGÍA  ,C224,Otros sarcomas del hígado,27/10/2023,M,MEJORÍA
+30/11/2023,872388,16/12/2015,ONCOLOGÍA  ,C224,Otros sarcomas del hígado,15/12/2023,M,MEJORÍA
+20/12/2023,872388,16/12/2015,ONCOLOGÍA  ,C224,Otros sarcomas del hígado,22/12/2023,M,MEJORÍA
+30/05/2023,872393,11/09/2011,ONCOLOGÍA  ,B602,Naegleriasis,11/06/2023,F,DEFUNCIÓN
+01/06/2023,872401,16/10/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],23/06/2023,M,MEJORÍA
+17/07/2023,872401,16/10/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],26/07/2023,M,MEJORÍA
+30/07/2023,872401,16/10/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],10/08/2023,M,MEJORÍA
+18/08/2023,872401,16/10/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],30/08/2023,M,MEJORÍA
+18/09/2023,872401,16/10/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],21/09/2023,M,MEJORÍA
+02/10/2023,872401,16/10/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],07/10/2023,M,MEJORÍA
+12/11/2023,872401,16/10/2009,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],14/11/2023,M,MEJORÍA
+06/06/2023,872415,18/02/2023,ONCOLOGÍA  ,D70X,Agranulocitosis,10/06/2023,M,MEJORÍA
+07/06/2023,872420,04/11/2022,ONCOLOGÍA  ,C222,Hepatoblastoma,13/06/2023,F,MEJORÍA
+18/06/2023,872420,04/11/2022,ONCOLOGÍA  ,C222,Hepatoblastoma,27/06/2023,F,MEJORÍA
+06/07/2023,872420,04/11/2022,ONCOLOGÍA  ,C222,Hepatoblastoma,10/07/2023,F,MEJORÍA
+17/07/2023,872420,04/11/2022,ONCOLOGÍA  ,C222,Hepatoblastoma,22/07/2023,F,MEJORÍA
+05/08/2023,872420,04/11/2022,ONCOLOGÍA  ,C222,Hepatoblastoma,08/08/2023,F,MEJORÍA
+03/09/2023,872420,04/11/2022,ONCOLOGÍA  ,C222,Hepatoblastoma,06/09/2023,F,MEJORÍA
+04/10/2023,872420,04/11/2022,ONCOLOGÍA  ,C222,Hepatoblastoma,23/10/2023,F,MEJORÍA
+16/11/2023,872420,04/11/2022,ONCOLOGÍA  ,C222,Hepatoblastoma,19/11/2023,F,MEJORÍA
+11/06/2023,872447,17/06/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],16/06/2023,F,MEJORÍA
+04/07/2023,872447,17/06/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],26/07/2023,F,MEJORÍA
+16/08/2023,872447,17/06/2019,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],01/09/2023,F,MEJORÍA
+09/09/2023,872447,17/06/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],14/09/2023,F,MEJORÍA
+17/09/2023,872447,17/06/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],22/09/2023,F,MEJORÍA
+28/09/2023,872447,17/06/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],02/10/2023,F,MEJORÍA
+16/10/2023,872447,17/06/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],20/10/2023,F,MEJORÍA
+06/11/2023,872447,17/06/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],06/11/2023,F,MEJORÍA
+13/12/2023,872447,17/06/2019,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],22/12/2023,F,MEJORÍA
+14/06/2023,872456,17/10/2022,HEMATOLOGÍA           ,C960, Histiocitosis de células de Langerhans multifocal y multisistémica (diseminada) [Enfermedad de Letterer-Siwe],17/08/2023,F,MEJORÍA
+29/08/2023,872456,17/10/2022,HEMATOLOGÍA           ,C960, Histiocitosis de células de Langerhans multifocal y multisistémica (diseminada) [Enfermedad de Letterer-Siwe],30/08/2023,F,MEJORÍA
+17/11/2023,872456,17/10/2022,ONCOLOGÍA  ,C960, Histiocitosis de células de Langerhans multifocal y multisistémica (diseminada) [Enfermedad de Letterer-Siwe],22/11/2023,F,MEJORÍA
+20/10/2023,872470,23/06/2022,ONCOLOGÍA  ,C222,Hepatoblastoma,31/10/2023,F,MEJORÍA
+17/06/2023,872471,17/07/2018,ONCOLOGÍA  ,J82X,"Eosinofilia pulmonar, no clasificada en otra parte",27/06/2023,F,MEJORÍA
+23/06/2023,872489,15/06/2008,ONCOLOGÍA  ,C629,"Tumor maligno del testículo, no especificado",12/07/2023,M,MEJORÍA
+26/07/2023,872489,15/06/2008,ONCOLOGÍA  ,C629,"Tumor maligno del testículo, no especificado",31/07/2023,M,MEJORÍA
+24/08/2023,872489,15/06/2008,ONCOLOGÍA  ,C629,"Tumor maligno del testículo, no especificado",28/08/2023,M,MEJORÍA
+23/09/2023,872489,15/06/2008,ONCOLOGÍA  ,C629,"Tumor maligno del testículo, no especificado",28/09/2023,M,MEJORÍA
+03/10/2023,872489,15/06/2008,ONCOLOGÍA  ,C629,"Tumor maligno del testículo, no especificado",09/10/2023,M,MEJORÍA
+31/10/2023,872489,15/06/2008,ONCOLOGÍA  ,C780,Tumor maligno secundario del pulmón,07/11/2023,M,MEJORÍA
+26/06/2023,872496,13/12/2011,ONCOLOGÍA  ,D694,Otras trombocitopenias primarias,28/06/2023,M,MEJORÍA
+27/06/2023,872502,20/02/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],24/07/2023,M,MEJORÍA
+28/08/2023,872502,20/02/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],04/09/2023,M,MEJORÍA
+21/09/2023,872502,20/02/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],27/09/2023,M,MEJORÍA
+16/10/2023,872502,20/02/2009,ONCOLOGÍA  ,C492,"Tumor maligno del tejido conjuntivo y tejido blando del miembro inferior, incluida la cadera",23/10/2023,M,MEJORÍA
+06/11/2023,872502,20/02/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],07/11/2023,M,MEJORÍA
+27/06/2023,872505,20/03/2018,ONCOLOGÍA  ,D619,"Anemia aplástica, sin otra especificación",02/07/2023,M,MEJORÍA
+27/07/2023,872505,20/03/2018,ONCOLOGÍA  ,D619,"Anemia aplástica, sin otra especificación",31/08/2023,M,MEJORÍA
+10/10/2023,872505,20/03/2018,ONCOLOGÍA  ,D610,Anemia aplástica constitucional,19/10/2023,M,MEJORÍA
+31/10/2023,872505,20/03/2018,ONCOLOGÍA  ,D610,Anemia aplástica constitucional,06/11/2023,M,MEJORÍA
+18/11/2023,872505,20/03/2018,ONCOLOGÍA  ,D610,Anemia aplástica constitucional,02/12/2023,M,MEJORÍA
+06/12/2023,872505,20/03/2018,ONCOLOGÍA  ,D610,Anemia aplástica constitucional,24/12/2023,M,MEJORÍA
+27/06/2023,872506,13/09/2017,ONCOLOGÍA  ,D696,Trombocitopenia no especificada,30/06/2023,F,MEJORÍA
+01/07/2023,872517,25/12/2022,ONCOLOGÍA  ,C222,Hepatoblastoma,10/07/2023,F,MEJORÍA
+06/08/2023,872517,25/12/2022,ONCOLOGÍA  ,C222,Hepatoblastoma,09/08/2023,F,MEJORÍA
+11/09/2023,872517,25/12/2022,ONCOLOGÍA  ,C222,Hepatoblastoma,14/09/2023,F,MEJORÍA
+21/09/2023,872517,25/12/2022,HEMATOLOGÍA           ,C222,Hepatoblastoma,04/10/2023,F,MEJORÍA
+13/10/2023,872517,25/12/2022,ONCOLOGÍA  ,C222,Hepatoblastoma,17/10/2023,F,MEJORÍA
+27/10/2023,872517,25/12/2022,ONCOLOGÍA  ,C222,Hepatoblastoma,14/11/2023,F,MEJORÍA
+22/11/2023,872517,25/12/2022,ONCOLOGÍA  ,C222,Hepatoblastoma,29/11/2023,F,MEJORÍA
+04/07/2023,872523,11/03/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],21/07/2023,F,MEJORÍA
+27/08/2023,872523,11/03/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],05/09/2023,F,MEJORÍA
+18/09/2023,872523,11/03/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],23/09/2023,F,MEJORÍA
+17/10/2023,872523,11/03/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],23/10/2023,F,MEJORÍA
+06/11/2023,872523,11/03/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],11/11/2023,F,MEJORÍA
+07/08/2023,872534,13/06/2007,ONCOLOGÍA  ,C73X,Tumor maligno de la glándula tiroides,10/08/2023,F,MEJORÍA
+10/07/2023,872553,18/08/2011,ONCOLOGÍA  ,D693,Púrpura trombocitopénica idiopática,12/07/2023,M,MEJORÍA
+12/07/2023,872560,20/01/2016,ONCOLOGÍA  ,C729,"Tumor maligno del sistema nervioso central, sin otra especificación",01/08/2023,M,MEJORÍA
+07/08/2023,872560,20/01/2016,ONCOLOGÍA  ,C719,"Tumor maligno del encéfalo, parte no especificada",10/08/2023,M,MEJORÍA
+13/11/2023,872560,20/01/2016,ONCOLOGÍA  ,C719,"Tumor maligno del encéfalo, parte no especificada",16/11/2023,M,MEJORÍA
+30/11/2023,872560,20/01/2016,ONCOLOGÍA  ,C719,"Tumor maligno del encéfalo, parte no especificada",11/12/2023,M,MEJORÍA
+13/07/2023,872566,14/04/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],17/07/2023,M,DEFUNCIÓN
+10/09/2023,872575,07/05/2010,ONCOLOGÍA  ,C835,Linfoma linfoblástico (difuso),14/09/2023,M,MEJORÍA
+25/09/2023,872575,07/05/2010,ONCOLOGÍA  ,D383,Tumor de comportamiento incierto o desconocido del mediastino,29/09/2023,M,MEJORÍA
+12/10/2023,872575,07/05/2010,ONCOLOGÍA  ,C835,Linfoma linfoblástico (difuso),17/10/2023,M,MEJORÍA
+11/12/2023,872575,07/05/2010,ONCOLOGÍA  ,C835,Linfoma linfoblástico (difuso),15/12/2023,M,MEJORÍA
+19/07/2023,872590,07/05/2014,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,22/07/2023,F,MEJORÍA
+09/08/2023,872590,07/05/2014,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,14/08/2023,F,MEJORÍA
+21/08/2023,872590,07/05/2014,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,01/09/2023,F,MEJORÍA
+02/09/2023,872590,07/05/2014,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],05/09/2023,F,MEJORÍA
+13/09/2023,872590,07/05/2014,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,18/09/2023,F,MEJORÍA
+24/09/2023,872590,07/05/2014,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,28/09/2023,F,MEJORÍA
+06/10/2023,872590,07/05/2014,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,10/10/2023,F,MEJORÍA
+10/11/2023,872590,07/05/2014,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,13/11/2023,F,MEJORÍA
+20/11/2023,872590,07/05/2014,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,28/11/2023,F,MEJORÍA
+02/12/2023,872590,07/05/2014,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,06/12/2023,F,MEJORÍA
+16/12/2023,872590,07/05/2014,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,20/12/2023,F,MEJORÍA
+20/07/2023,872591,17/05/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],05/08/2023,M,MEJORÍA
+13/08/2023,872591,17/05/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],20/10/2023,M,MEJORÍA
+23/10/2023,872591,17/05/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],27/10/2023,M,ALTA VOLUNTARIA
+06/11/2023,872591,17/05/2008,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],07/11/2023,M,MEJORÍA
+20/11/2023,872591,17/05/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],23/11/2023,M,MEJORÍA
+08/12/2023,872591,17/05/2008,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],12/12/2023,M,MEJORÍA
+29/10/2023,872599,03/03/2015,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,01/11/2023,M,MEJORÍA
+25/07/2023,872615,16/08/2007,ONCOLOGÍA  ,C73X,Tumor maligno de la glándula tiroides,28/07/2023,M,MEJORÍA
+26/07/2023,872618,02/09/2010,ONCOLOGÍA  ,C762,Tumor maligno del abdomen,17/08/2023,F,MEJORÍA
+29/08/2023,872618,02/09/2010,ONCOLOGÍA  ,C762,Tumor maligno del abdomen,03/09/2023,F,MEJORÍA
+28/07/2023,872628,17/10/2017,ONCOLOGÍA  ,C814,Linfoma de Hodgkin clásico rico en linfocitos,20/08/2023,M,MEJORÍA
+29/07/2023,872630,26/04/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],08/08/2023,F,MEJORÍA
+24/09/2023,872630,26/04/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],28/09/2023,F,MEJORÍA
+15/10/2023,872630,26/04/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],19/10/2023,F,MEJORÍA
+06/11/2023,872630,26/04/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],07/11/2023,F,MEJORÍA
+16/11/2023,872630,26/04/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],22/11/2023,F,MEJORÍA
+26/11/2023,872630,26/04/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],01/12/2023,F,MEJORÍA
+25/12/2023,872630,26/04/2018,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],30/12/2023,F,MEJORÍA
+16/08/2023,872632,16/02/2022,ONCOLOGÍA  ,C749,"Tumor maligno de la glándula suprarrenal, parte no especificada",29/08/2023,M,MEJORÍA
+31/07/2023,872636,26/10/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],04/08/2023,F,MEJORÍA
+16/09/2023,872636,26/10/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],20/09/2023,F,MEJORÍA
+05/10/2023,872636,26/10/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],10/10/2023,F,MEJORÍA
+21/10/2023,872636,26/10/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],23/10/2023,F,MEJORÍA
+27/10/2023,872636,26/10/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],20/11/2023,F,MEJORÍA
+04/12/2023,872636,26/10/2016,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],08/12/2023,F,MEJORÍA
+01/08/2023,872645,27/11/2012,ONCOLOGÍA  ,C717,Tumor maligno del pedúnculo cerebral,08/08/2023,M,MEJORÍA
+02/08/2023,872649,10/06/2020,ONCOLOGÍA  ,D693,Púrpura trombocitopénica idiopática,04/08/2023,F,MEJORÍA
+07/08/2023,872667,11/06/2023,ONCOLOGÍA  ,D693,Púrpura trombocitopénica idiopática,10/08/2023,F,MEJORÍA
+11/08/2023,872691,08/04/2023,ONCOLOGÍA  ,D591,Otras anemias hemolíticas autoinmunes,18/08/2023,M,MEJORÍA
+14/08/2023,872700,24/08/2021,ONCOLOGÍA  ,D761,Linfohistiocitosis hemofagocítica,09/10/2023,M,DEFUNCIÓN
+12/09/2023,872701,24/04/2017,ONCOLOGÍA  ,C480,Tumor maligno del retroperitoneo,20/09/2023,F,MEJORÍA
+12/10/2023,872701,24/04/2017,ONCOLOGÍA  ,C480,Tumor maligno del retroperitoneo,18/10/2023,F,MEJORÍA
+24/10/2023,872701,24/04/2017,ONCOLOGÍA  ,C480,Tumor maligno del retroperitoneo,29/10/2023,F,MEJORÍA
+12/11/2023,872701,24/04/2017,ONCOLOGÍA  ,C480,Tumor maligno del retroperitoneo,13/11/2023,F,MEJORÍA
+24/11/2023,872701,24/04/2017,ONCOLOGÍA  ,C480,Tumor maligno del retroperitoneo,28/11/2023,F,MEJORÍA
+26/12/2023,872701,24/04/2017,ONCOLOGÍA  ,C480,Tumor maligno del retroperitoneo,31/12/2023,F,MEJORÍA
+24/09/2023,872731,29/05/2012,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,28/09/2023,F,MEJORÍA
+03/10/2023,872731,29/05/2012,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,06/10/2023,F,MEJORÍA
+14/10/2023,872731,29/05/2012,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,17/10/2023,F,MEJORÍA
+07/11/2023,872731,29/05/2012,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,13/11/2023,F,MEJORÍA
+25/11/2023,872731,29/05/2012,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,07/12/2023,F,MEJORÍA
+26/12/2023,872731,29/05/2012,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,29/12/2023,F,MEJORÍA
+25/08/2023,872749,10/09/2005,ONCOLOGÍA  ,C950,"Leucemia aguda, células de tipo no especificado",05/09/2023,F,MEJORÍA
+21/10/2023,872749,10/09/2005,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],26/10/2023,F,MEJORÍA
+10/11/2023,872749,10/09/2005,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],15/11/2023,F,MEJORÍA
+28/11/2023,872749,10/09/2005,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],04/12/2023,F,MEJORÍA
+12/12/2023,872749,10/09/2005,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],13/12/2023,F,MEJORÍA
+17/12/2023,872749,10/09/2005,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],21/12/2023,F,MEJORÍA
+25/08/2023,872750,23/10/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],01/09/2023,F,MEJORÍA
+12/09/2023,872750,23/10/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],06/10/2023,F,DEFUNCIÓN
+29/08/2023,872760,13/06/2021,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,12/10/2023,F,MEJORÍA
+09/11/2023,872760,13/06/2021,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,12/11/2023,F,MEJORÍA
+18/11/2023,872760,13/06/2021,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,28/11/2023,F,MEJORÍA
+06/12/2023,872760,13/06/2021,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,09/12/2023,F,MEJORÍA
+10/11/2023,872766,11/04/2018,ONCOLOGÍA  ,C73X,Tumor maligno de la glándula tiroides,15/11/2023,F,MEJORÍA
+30/08/2023,872767,20/02/2007,ONCOLOGÍA  ,C629,"Tumor maligno del testículo, no especificado",04/09/2023,M,MEJORÍA
+02/10/2023,872767,20/02/2007,ONCOLOGÍA  ,C629,"Tumor maligno del testículo, no especificado",07/10/2023,M,MEJORÍA
+03/09/2023,872777,05/06/2007,ONCOLOGÍA  ,C819,"Linfoma de Hodgkin, no especificado",18/09/2023,M,MEJORÍA
+03/09/2023,872781,19/07/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],09/09/2023,M,MEJORÍA
+24/10/2023,872781,19/07/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],28/10/2023,M,MEJORÍA
+13/11/2023,872781,19/07/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],17/11/2023,M,MEJORÍA
+04/12/2023,872781,19/07/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],08/12/2023,M,MEJORÍA
+26/12/2023,872781,19/07/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],29/12/2023,M,MEJORÍA
+06/09/2023,872798,24/04/2021,ONCOLOGÍA  ,C229,"Tumor maligno del hígado, no especificado",17/09/2023,M,MEJORÍA
+24/09/2023,872798,24/04/2021,ONCOLOGÍA  ,C222,Hepatoblastoma,28/09/2023,M,MEJORÍA
+13/10/2023,872798,24/04/2021,ONCOLOGÍA  ,C222,Hepatoblastoma,06/11/2023,M,MEJORÍA
+15/11/2023,872798,24/04/2021,ONCOLOGÍA  ,C222,Hepatoblastoma,02/12/2023,M,MEJORÍA
+07/09/2023,872802,01/08/2018,ONCOLOGÍA  ,D619,"Anemia aplástica, sin otra especificación",27/09/2023,F,MEJORÍA
+02/10/2023,872802,01/08/2018,ONCOLOGÍA  ,D610,Anemia aplástica constitucional,10/11/2023,F,MEJORÍA
+24/11/2023,872802,01/08/2018,ONCOLOGÍA  ,D610,Anemia aplástica constitucional,01/12/2023,F,MEJORÍA
+15/12/2023,872802,01/08/2018,ONCOLOGÍA  ,D610,Anemia aplástica constitucional,22/12/2023,F,MEJORÍA
+07/09/2023,872803,28/01/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],18/09/2023,M,MEJORÍA
+10/10/2023,872803,28/01/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],14/10/2023,M,MEJORÍA
+29/10/2023,872803,28/01/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],07/11/2023,M,MEJORÍA
+16/11/2023,872803,28/01/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],20/11/2023,M,MEJORÍA
+05/12/2023,872803,28/01/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],09/12/2023,M,MEJORÍA
+22/12/2023,872803,28/01/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],27/12/2023,M,MEJORÍA
+02/10/2023,872817,22/07/2013,ONCOLOGÍA  ,C833,Linfoma de células grandes B difuso,08/10/2023,M,MEJORÍA
+11/10/2023,872817,22/07/2013,ONCOLOGÍA  ,C859,"Linfoma no Hodgkin, no especificado",23/10/2023,M,MEJORÍA
+26/10/2023,872817,22/07/2013,ONCOLOGÍA  ,C857,Otros tipos especificados de linfoma no Hodgkin,01/11/2023,M,MEJORÍA
+08/11/2023,872817,22/07/2013,ONCOLOGÍA  ,C833,Linfoma de células grandes B difuso,14/11/2023,M,MEJORÍA
+21/11/2023,872817,22/07/2013,ONCOLOGÍA  ,C857,Otros tipos especificados de linfoma no Hodgkin,29/11/2023,M,MEJORÍA
+14/12/2023,872817,22/07/2013,HEMATOLOGÍA           ,C859,"Linfoma no Hodgkin, no especificado",20/12/2023,M,MEJORÍA
+11/09/2023,872818,06/06/2012,ONCOLOGÍA  ,C73X,Tumor maligno de la glándula tiroides,15/09/2023,M,MEJORÍA
+23/10/2023,872823,14/03/2009,ONCOLOGÍA  ,C73X,Tumor maligno de la glándula tiroides,26/10/2023,F,MEJORÍA
+13/09/2023,872827,08/06/2016,ONCOLOGÍA  ,C950,"Leucemia aguda, células de tipo no especificado",25/09/2023,M,MEJORÍA
+29/09/2023,872827,08/06/2016,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],18/10/2023,M,MEJORÍA
+20/10/2023,872827,08/06/2016,ONCOLOGÍA  ,C950,"Leucemia aguda, células de tipo no especificado",01/11/2023,M,MEJORÍA
+06/11/2023,872827,08/06/2016,HEMATOLOGÍA           ,C950,"Leucemia aguda, células de tipo no especificado",11/11/2023,M,MEJORÍA
+15/11/2023,872827,08/06/2016,ONCOLOGÍA  ,C950,"Leucemia aguda, células de tipo no especificado",21/11/2023,M,MEJORÍA
+05/12/2023,872827,08/06/2016,ONCOLOGÍA  ,C950,"Leucemia aguda, células de tipo no especificado",16/12/2023,M,MEJORÍA
+14/09/2023,872832,06/02/2022,ONCOLOGÍA  ,D762,Síndrome hemofagocítico asociado a infección,27/10/2023,M,DEFUNCIÓN
+25/09/2023,872881,19/12/2007,ONCOLOGÍA  ,C414,"Tumor maligno de los huesos de la pelvis, sacro y cóccix",20/10/2023,M,MEJORÍA
+26/10/2023,872881,19/12/2007,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,30/10/2023,M,MEJORÍA
+06/11/2023,872881,19/12/2007,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,10/11/2023,M,MEJORÍA
+17/11/2023,872881,19/12/2007,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,21/11/2023,M,MEJORÍA
+26/09/2023,872883,16/09/2017,HEMATOLOGÍA           ,D761,Linfohistiocitosis hemofagocítica,26/09/2023,F,DEFUNCIÓN
+01/10/2023,872912,02/06/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],06/10/2023,F,MEJORÍA
+06/11/2023,872912,02/06/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],08/11/2023,F,MEJORÍA
+20/11/2023,872912,02/06/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],24/11/2023,F,MEJORÍA
+05/12/2023,872912,02/06/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],10/12/2023,F,MEJORÍA
+19/12/2023,872912,02/06/2015,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],23/12/2023,F,MEJORÍA
+04/10/2023,872924,06/02/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],16/10/2023,F,MEJORÍA
+22/10/2023,872924,06/02/2011,HEMATOLOGÍA           ,C910,Leucemia linfoblástica aguda [LLA],31/10/2023,F,MEJORÍA
+03/12/2023,872924,06/02/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],06/12/2023,F,MEJORÍA
+16/12/2023,872924,06/02/2011,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],20/12/2023,F,MEJORÍA
+09/10/2023,872951,23/03/2022,ONCOLOGÍA  ,D474,Osteomielofibrosis,13/10/2023,F,MEJORÍA
+11/11/2023,872967,17/08/2017,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,12/11/2023,F,MEJORÍA
+13/10/2023,872969,29/06/2013,ONCOLOGÍA  ,D693,Púrpura trombocitopénica idiopática,16/10/2023,M,MEJORÍA
+13/10/2023,872975,21/07/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],19/10/2023,M,MEJORÍA
+06/11/2023,872975,21/07/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],06/11/2023,M,MEJORÍA
+07/11/2023,872975,21/07/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],14/11/2023,M,MEJORÍA
+10/12/2023,872975,21/07/2012,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],22/12/2023,M,MEJORÍA
+13/10/2023,872977,20/01/2014,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],25/10/2023,M,MEJORÍA
+23/11/2023,872977,20/01/2014,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],02/12/2023,M,MEJORÍA
+09/12/2023,872977,20/01/2014,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],13/12/2023,M,MEJORÍA
+22/10/2023,873021,04/12/2006,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],30/10/2023,M,MEJORÍA
+16/12/2023,873021,04/12/2006,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],20/12/2023,M,MEJORÍA
+26/11/2023,873035,11/07/2022,ONCOLOGÍA  ,C809,"Tumor maligno, sitio primario no especificado",01/12/2023,M,MEJORÍA
+03/12/2023,873035,11/07/2022,ONCOLOGÍA  ,C809,"Tumor maligno, sitio primario no especificado",06/12/2023,M,MEJORÍA
+26/12/2023,873035,11/07/2022,ONCOLOGÍA  ,C809,"Tumor maligno, sitio primario no especificado",30/12/2023,M,MEJORÍA
+25/10/2023,873039,11/12/2006,ONCOLOGÍA  ,D696,Trombocitopenia no especificada,01/12/2023,M,MEJORÍA
+07/12/2023,873039,11/12/2006,ONCOLOGÍA  ,D696,Trombocitopenia no especificada,07/12/2023,M,MEJORÍA
+16/12/2023,873039,11/12/2006,ONCOLOGÍA  ,D696,Trombocitopenia no especificada,16/12/2023,M,MEJORÍA
+29/10/2023,873064,10/01/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],14/11/2023,F,MEJORÍA
+01/12/2023,873064,10/01/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],04/12/2023,F,MEJORÍA
+18/12/2023,873064,10/01/2021,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],24/12/2023,F,MEJORÍA
+29/10/2023,873071,21/08/2014,ONCOLOGÍA  ,C920,Leucemia mieloblástica aguda [LMA],20/12/2023,M,MEJORÍA
+06/11/2023,873113,10/06/2022,ONCOLOGÍA  ,D693,Púrpura trombocitopénica idiopática,10/11/2023,F,MEJORÍA
+29/12/2023,873113,10/06/2022,ONCOLOGÍA  ,D696,Trombocitopenia no especificada,30/12/2023,F,MEJORÍA
+07/11/2023,873124,21/04/2021,HEMATOLOGÍA           ,C920,Leucemia mieloblástica aguda [LMA],15/12/2023,M,MEJORÍA
+08/11/2023,873131,31/10/2019,ONCOLOGÍA  ,C490,"Tumor maligno del tejido conjuntivo y tejido blando de la cabeza, cara y cuello",16/11/2023,F,MEJORÍA
+10/11/2023,873142,08/11/2007,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],18/11/2023,M,MEJORÍA
+18/11/2023,873189,30/10/2020,ONCOLOGÍA  ,C835,Linfoma linfoblástico (difuso),18/12/2023,M,
+19/11/2023,873194,09/11/2008,ONCOLOGÍA  ,C811,Linfoma de Hodgkin clásico con esclerosis nodular,28/11/2023,M,MEJORÍA
+20/11/2023,873201,28/12/2015,ONCOLOGÍA  ,D694,Otras trombocitopenias primarias,22/11/2023,M,MEJORÍA
+20/11/2023,873206,13/12/2015,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,24/11/2023,M,MEJORÍA
+21/11/2023,873208,01/09/2020,ONCOLOGÍA  ,C717,Tumor maligno del pedúnculo cerebral,23/11/2023,F,MEJORÍA
+21/11/2023,873211,06/02/2022,ONCOLOGÍA  ,D696,Trombocitopenia no especificada,06/12/2023,F,MEJORÍA
+21/11/2023,873213,10/02/2012,ONCOLOGÍA  ,D696,Trombocitopenia no especificada,22/11/2023,M,MEJORÍA
+22/11/2023,873213,10/02/2012,HEMATOLOGÍA           ,D696,Trombocitopenia no especificada,22/11/2023,M,MEJORÍA
+28/11/2023,873213,10/02/2012,ONCOLOGÍA  ,D696,Trombocitopenia no especificada,11/12/2023,M,MEJORÍA
+14/12/2023,873213,10/02/2012,ONCOLOGÍA  ,D619,"Anemia aplástica, sin otra especificación",21/12/2023,M,MEJORÍA
+21/12/2023,873226,26/04/2016,ONCOLOGÍA  ,D761,Linfohistiocitosis hemofagocítica,27/12/2023,F,MEJORÍA
+26/11/2023,873246,25/11/2020,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],11/12/2023,F,MEJORÍA
+27/11/2023,873251,15/08/2018,ONCOLOGÍA  ,C716,Tumor maligno del cerebelo,30/11/2023,M,MEJORÍA
+28/11/2023,873259,28/05/2009,ONCOLOGÍA  ,C910,Leucemia linfoblástica aguda [LLA],05/12/2023,M,MEJORÍA
+05/12/2023,873290,16/11/2020,ONCOLOGÍA  ,C222,Hepatoblastoma,21/12/2023,M,DEFUNCIÓN
+09/12/2023,873303,11/10/2023,ONCOLOGÍA  ,D693,Púrpura trombocitopénica idiopática,11/12/2023,M,MEJORÍA
+24/12/2023,873398,18/01/2015,ONCOLOGÍA  ,C717,Tumor maligno del pedúnculo cerebral,30/12/2023,F,MEJORÍA
+20/09/2023,880045,14/05/2010,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,26/09/2023,F,MEJORÍA
+30/09/2023,880045,14/05/2010,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,25/10/2023,F,MEJORÍA
+30/10/2023,880045,14/05/2010,ONCOLOGÍA  ,C402,Tumor maligno de los huesos largos del miembro inferior,20/11/2023,F,MEJORÍA
+08/10/2023,880130,14/10/2008,ONCOLOGÍA  ,C400,Tumor maligno del omóplato y de los huesos largos del miembro superior,11/10/2023,F,MEJORÍA
+18/10/2023,880130,14/10/2008,ONCOLOGÍA  ,C400,Tumor maligno del omóplato y de los huesos largos del miembro superior,01/11/2023,F,MEJORÍA
+09/11/2023,880130,14/10/2008,ONCOLOGÍA  ,C400,Tumor maligno del omóplato y de los huesos largos del miembro superior,13/11/2023,F,MEJORÍA
+20/11/2023,880130,14/10/2008,ONCOLOGÍA  ,C400,Tumor maligno del omóplato y de los huesos largos del miembro superior,23/11/2023,F,MEJORÍA
+01/12/2023,880130,14/10/2008,ONCOLOGÍA  ,C400,Tumor maligno del omóplato y de los huesos largos del miembro superior,12/12/2023,F,MEJORÍA
+07/12/2023,880492,31/10/2023,ONCOLOGÍA  ,C692,Tumor maligno de la retina,12/12/2023,M,MEJORÍA
+21/11/2023,880512,04/07/2014,ONCOLOGÍA  ,D385,Tumor de comportamiento incierto o desconocido de otros órganos respiratorios y del oído medio,09/12/2023,M,MEJORÍA
+16/12/2023,880556,28/08/2023,ONCOLOGÍA  ,C692,Tumor maligno de la retina,18/12/2023,F,MEJORÍA
+13/03/2023,1868010,28/09/2016,TRASPLANTE MED. OSEA,Z523,Donante de médula ósea,27/03/2023,M,MEJORÍA
+20/10/2023,1868482,15/09/2002,TRASPLANTE MED. OSEA,Z520,Donante de sangre,27/10/2023,F,MEJORÍA
+28/11/2023,1868482,15/09/2002,TRASPLANTE MED. OSEA,Z520,Donante de sangre,05/12/2023,F,MEJORÍA
+24/01/2023,1868484,16/09/2010,TRASPLANTE MED. OSEA,Z523,Donante de médula ósea,07/02/2023,F,MEJORÍA
+13/03/2023,1868532,20/11/2013,TRASPLANTE MED. OSEA,Z520,Donante de sangre,24/03/2023,F,MEJORÍA
+11/09/2023,1869541,14/10/2009,TRASPLANTE MED. OSEA,Z523,Donante de médula ósea,25/09/2023,M,MEJORÍA
+02/10/2023,1869623,28/09/2010,TRASPLANTE MED. OSEA,Z523,Donante de médula ósea,12/10/2023,M,MEJORÍA
+06/11/2023,1869756,07/10/2013,TRASPLANTE MED. OSEA,Z520,Donante de sangre,21/11/2023,M,MEJORÍA
+10/07/2023,1870680,14/11/2018,TRASPLANTE MED. OSEA,Z520,Donante de sangre,18/07/2023,M,MEJORÍA
+18/07/2023,1871857,29/11/2014,TRASPLANTE MED. OSEA,Z520,Donante de sangre,27/07/2023,M,MEJORÍA
